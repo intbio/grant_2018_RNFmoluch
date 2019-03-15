@@ -2,7 +2,8 @@
 
 ## Планы
 
-
+- [На первый год](plan_results1year.pdf)
+- [На все время](plan-zadach.pdf)
 
 
 
