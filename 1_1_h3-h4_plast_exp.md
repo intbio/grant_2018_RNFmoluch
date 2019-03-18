@@ -12,7 +12,7 @@
 - Methyl TOSY NMR -  метились ILV - в гистоне H4. Отдельный эксперимент, где метился H2A.
 - Указание пиков использовали от Бая.
 - Оценка данныя ЯМР велась по уширению пиков. Может быть результатом следующих процессов: (i) an increase in molecular weight, (ii) exchange between bound and unbound states of the nucleosome, (iii) proximity of histone residues to nondeuterated SNF2h, or (iv) induction of protein dynamics on a millisecond-microsecond (ms-ms) time scale in the vicinity of the labeled residues.
-- Далее показывется методом исключения, что возможны только два варианта (i) binding of SNF2h on the exterior allosterically induces protein dynam- ics on a ms-ms time scale in buried regions of the octamer; or (ii) SNF2h opens up the octa- mer to directly contact residues that are normally buried.
+- Далее показывется методом исключения, что возможны только два варианта (i) binding of SNF2h on the exterior allosterically induces protein dynam- ics on a ms-ms time scale in buried regions of the octamer; or (ii) SNF2h opens up the octamer to directly contact residues that are normally buried.
 - Биохимические эксперименты с гистонами со сшивками.
 - H3F104C-H4V43C, sCX1 - около диады.
 - H3L82C-H4V81C, which we term sCX2, около SHL2
