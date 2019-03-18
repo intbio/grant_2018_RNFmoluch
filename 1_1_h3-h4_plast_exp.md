@@ -18,5 +18,9 @@
 - H3L82C-H4V81C, which we term sCX2, около SHL2
 
 ### Результаты
+- ЯМР
+![ямр1](figs/Science_2017_fig1b.pnh)
+
+
 
 ### Выводы
