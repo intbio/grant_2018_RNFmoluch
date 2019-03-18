@@ -19,7 +19,7 @@
 
 ### Результаты
 - ЯМР
-![ямр1](figs/Science_2017_fig1b.pnh)
+![ямр1](figs/Science_2017_fig1b.png)
 
 
 
