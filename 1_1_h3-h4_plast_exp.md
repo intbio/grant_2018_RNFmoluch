@@ -37,3 +37,6 @@
 
 
 ### Выводы
+- In the simplest model we can imagine, nucleosome-stimulated ATP hydrolysis gener- ates an intermediate in which DNA deforma- tion is thermodynamically coupled with octamer deformation.
+- Indeed, several histone modifications are being discovered on core his- tone residues, raising the possibility that some of these alter the equilibrium between different octamer conformations within a nucleosome.
+- Похоже, что главное ингибирование идет за счет sCX2 H3L82C-H4V81C.
