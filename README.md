@@ -1,5 +1,11 @@
 # 2018_RNFmoluch
 
+## Отчеты
+- Отчет [за 2018-2019 год](https://docs.google.com/document/d/1MgiTv9Y7oDxZVsyYMMmA1XoqaD91gS-Xr6jwO9oTrZo/edit?usp=sharing).
+
+## Папки
+- Ссылка на [Google Drive](https://drive.google.com/open?id=1BLPmT5rsuVZjckfTOFIWQs-CRNsxXfuB)
+
 ## Планы
 
 - [На первый год](plan_results1year.pdf)
