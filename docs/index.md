@@ -28,7 +28,7 @@
         NGL.autoLoad("md_10drames.dcd").then(function (frames) {
           nucl.addTrajectory(frames);
           var traj = nucl.trajList[0].trajectory;
-          var player = new NGL.TrajectoryPlayer( traj,{step: 1, timeout: 50});
+          var player = new NGL.TrajectoryPlayer( traj,{step: 1, timeout: 500});
           player.play();
         });      
       });
