@@ -10,7 +10,7 @@
     document.addEventListener("DOMContentLoaded", function () {
       var stage = new NGL.Stage("viewport");
       stage.loadFile("only_nucl_init_chains.pdb", {defaultRepresentation: true});
-      var nucl = this.stage.compList[0];    
+      var nucl = stage.compList[0];    
       var aspectRatio = 2;
       var radius = 1.5;
       nucl.addRepresentation('cartoon', {
