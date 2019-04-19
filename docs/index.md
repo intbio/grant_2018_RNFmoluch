@@ -9,9 +9,9 @@
   <script>
     document.addEventListener("DOMContentLoaded", function () {
       var stage = new NGL.Stage("viewport");
-      stage.loadFile("rcsb://1crn", {defaultRepresentation: true});
+      stage.loadFile("only_nucl_init_chains.pdb", {defaultRepresentation: true});
     });
   </script>
-  <div id="viewport" style="width:400px; height:300px;"></div>
+  <div id="viewport" style="width:500px; height:500px;"></div>
 </body>
 </html>
