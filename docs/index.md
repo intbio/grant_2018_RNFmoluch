@@ -8,7 +8,7 @@
   <script src="https://unpkg.com/ngl@0.10.4/dist/ngl.js"></script>
   <script>
     document.addEventListener("DOMContentLoaded", function () {
-      var stage = new NGL.Stage("viewport");
+      var stage = new NGL.Stage("viewport",{ backgroundColor:"#FFFFFF" });
       stage.loadFile("only_nucl_init_chains.pdb").then(function (nucl) {
         var aspectRatio = 2;
         var radius = 1.5;
