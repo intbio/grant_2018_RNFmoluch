@@ -24,7 +24,10 @@
            "sele": "nucleic", "color": "grey","aspectRatio":aspectRatio, "radius":radius,"radiusSegments":1,"capped":0 });
         nucl.addRepresentation('base', {
            "sele": "nucleic", "color": "grey"});
-        nucl.autoView()
+        nucl.autoView();
+        NGL.autoLoad("md_10drames.dcd").then(function (frames) {
+          nucl.addTrajectory(frames)
+        });
       });
     });
   </script>
