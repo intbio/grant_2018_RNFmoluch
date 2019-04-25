@@ -30,7 +30,7 @@
         NGL.autoLoad("assets/h3-h4_dimer_pca/interp1.xtc").then(function (frames) {
           nucl.addTrajectory(frames);
           var traj = nucl.trajList[0].trajectory;
-          var player = new NGL.TrajectoryPlayer( traj,{step: 1, timeout: 500,interpolateType: "spline", direction : "bounce"});
+          var player = new NGL.TrajectoryPlayer( traj,{step: 1, timeout: 50,interpolateType: "spline", direction : "bounce"});
           player.play();
         });  
         nucl.autoView();
