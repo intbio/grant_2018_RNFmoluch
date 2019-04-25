@@ -11,6 +11,7 @@
   <script src="https://unpkg.com/ngl@2.0.0-dev.35/dist/ngl.js"></script>
   <script>
     document.addEventListener("DOMContentLoaded", function () {
+      var stage = new NGL.Stage("viewport",{ backgroundColor:"#FFFFFF" });
       stage.loadFile("assets/h3_h4_tetramer_ref.pdb").then(function (nucl) {
         var aspectRatio = 2;
         var radius = 1.5;
