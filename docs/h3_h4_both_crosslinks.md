@@ -12,7 +12,7 @@
   <script>
     document.addEventListener("DOMContentLoaded", function () {
       var stage = new NGL.Stage("viewport",{ backgroundColor:"#FFFFFF" });
-      stage.loadFile("assets/h3-h4_tm_mutated_s-s_adjusted.pdb").then(function (nucl) {
+      stage.loadFile("assets/h3-h4_tm_mutated_s-s_adjusted_.pdb").then(function (nucl) {
         var aspectRatio = 2;
         var radius = 1.5;
         nucl.addRepresentation('cartoon', {
