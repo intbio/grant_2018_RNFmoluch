@@ -5,6 +5,12 @@
   <meta charset="utf-8">
 </head>
 <body>
+  
+  Интерактивные материалы к отчету
+за 2018-2019 годы 
+по проекту
+“Структурная динамика нуклеосом и их взаимодействий: поиск подходов для диагностики и лечения онкологических заболеваний.”
+  
   <script src="https://unpkg.com/ngl@0.10.4/dist/ngl.js"></script>
   <script>
     document.addEventListener("DOMContentLoaded", function () {
