@@ -1,4 +1,4 @@
-### Интерактивная визуализация динамики нуклеосомы
+### Интерактивная визуализация димера гистонов с цистеиновыми сшивками
 [Назад](index.md)
 
 <html lang="en">
@@ -25,8 +25,8 @@
            "sele": ":D :H", "color": 0xCE0000,"aspectRatio":aspectRatio, "radius":radius,"radiusSegments":1,"capped":0 });
         nucl.addRepresentation('cartoon', {
            "sele": "nucleic", "color": "grey","aspectRatio":aspectRatio, "radius":radius,"radiusSegments":1,"capped":0 });
-        nucl.addRepresentation('base', {
-           "sele": "nucleic", "color": "grey"});
+        nucl.addRepresentation('licorice', {
+           "sele": "not (.N .O .C) and (104:A 43:B 81:B 82:A)","radius": 0.3});
         nucl.autoView();
         
       });
