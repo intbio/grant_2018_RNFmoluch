@@ -12,7 +12,7 @@
   <script>
     document.addEventListener("DOMContentLoaded", function () {
       var stage = new NGL.Stage("viewport",{ backgroundColor:"#FFFFFF" });
-      stage.loadFile("assets/only_nucl_init_chains.pdb").then(function (nucl) {
+      stage.loadFile("assets/h3-h4_tm_mutated_s-s_adjusted.pdb").then(function (nucl) {
         var aspectRatio = 2;
         var radius = 1.5;
         nucl.addRepresentation('cartoon', {
@@ -28,12 +28,7 @@
         nucl.addRepresentation('base', {
            "sele": "nucleic", "color": "grey"});
         nucl.autoView();
-        NGL.autoLoad("assets/md_10drames.dcd").then(function (frames) {
-          nucl.addTrajectory(frames);
-          var traj = nucl.trajList[0].trajectory;
-          var player = new NGL.TrajectoryPlayer( traj,{step: 1, timeout: 500});
-          player.play();
-        });      
+        
       });
     });
   </script>
