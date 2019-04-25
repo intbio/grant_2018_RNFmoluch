@@ -8,7 +8,7 @@
 <body>
  
  
-  <script src="https://unpkg.com/ngl@0.10.4/dist/ngl.js"></script>
+  <script src="https://unpkg.com/ngl@2.0.0-dev.35/dist/ngl.js"></script>
   <script>
     document.addEventListener("DOMContentLoaded", function () {
       var stage = new NGL.Stage("viewport",{ backgroundColor:"#FFFFFF" });
