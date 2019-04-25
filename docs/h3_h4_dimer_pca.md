@@ -27,7 +27,7 @@
            "sele": "nucleic", "color": "grey","aspectRatio":aspectRatio, "radius":radius,"radiusSegments":1,"capped":0 });
         nucl.addRepresentation('base', {
            "sele": "nucleic", "color": "grey"});
-        NGL.autoLoad("assets/h3-h4_dimer_pca/interp1.xtc").then(function (frames) {
+        NGL.autoLoad("assets/h3-h4_dimer_pca/interp4.xtc").then(function (frames) {
           nucl.addTrajectory(frames);
           var traj = nucl.trajList[0].trajectory;
           var player = new NGL.TrajectoryPlayer( traj,{step: 1, timeout: 50,interpolateType: "spline", direction : "bounce"});
