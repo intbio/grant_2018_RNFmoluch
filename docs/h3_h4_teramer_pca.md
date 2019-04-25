@@ -1,4 +1,4 @@
-### Интерактивная визуализация динамики нуклеосомы
+### Интерактивная визуализация пластичности димера гистонов H3-H4
 [Назад](index.md)
 
 <html lang="en">
@@ -28,7 +28,7 @@
         nucl.addRepresentation('base', {
            "sele": "nucleic", "color": "grey"});
         nucl.autoView();
-        NGL.autoLoad("assets/interp1.xtc").then(function (frames) {
+        NGL.autoLoad("assets/tetrasome_pca/interp1.xtc").then(function (frames) {
           nucl.addTrajectory(frames);
           var traj = nucl.trajList[0].trajectory;
           var player = new NGL.TrajectoryPlayer( traj,{step: 1, timeout: 500,interpolateType: "spline", direction : "bounce"});

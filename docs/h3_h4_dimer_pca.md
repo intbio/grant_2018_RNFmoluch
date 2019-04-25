@@ -1,4 +1,4 @@
-### Интерактивная визуализация динамики нуклеосомы
+### Интерактивная визуализация пластичности тетрамера гистонов H3-H4
 [Назад](index.md)
 
 <html lang="en">
@@ -12,7 +12,7 @@
   <script>
     document.addEventListener("DOMContentLoaded", function () {
       var stage = new NGL.Stage("viewport",{ backgroundColor:"#FFFFFF" });
-      stage.loadFile("assets/only_nucl_init_chains.pdb").then(function (nucl) {
+      stage.loadFile("assets/h3-h4_dimer_pca/bb-h_ref.pdb").then(function (nucl) {
         var aspectRatio = 2;
         var radius = 1.5;
         nucl.addRepresentation('cartoon', {
@@ -28,10 +28,10 @@
         nucl.addRepresentation('base', {
            "sele": "nucleic", "color": "grey"});
         nucl.autoView();
-        NGL.autoLoad("assets/md_10drames.dcd").then(function (frames) {
+        NGL.autoLoad("assets/h3-h4_dimer_pca/interp1.xtc").then(function (frames) {
           nucl.addTrajectory(frames);
           var traj = nucl.trajList[0].trajectory;
-          var player = new NGL.TrajectoryPlayer( traj,{step: 1, timeout: 500});
+          var player = new NGL.TrajectoryPlayer( traj,{step: 1, timeout: 500,interpolateType: "spline", direction : "bounce"});
           player.play();
         });      
       });
