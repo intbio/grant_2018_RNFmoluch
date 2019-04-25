@@ -27,10 +27,10 @@
            "sele": "nucleic", "color": "grey","aspectRatio":aspectRatio, "radius":radius,"radiusSegments":1,"capped":0 });
         nucl.addRepresentation('base', {
            "sele": "nucleic", "color": "grey"});
-        NGL.autoLoad("assets/tetrasome_pca/interp2.xtc").then(function (frames) {
+        NGL.autoLoad("assets/tetrasome_pca/interp3.xtc").then(function (frames) {
           nucl.addTrajectory(frames);
           var traj = nucl.trajList[0].trajectory;
-          var player = new NGL.TrajectoryPlayer( traj,{step: 1, timeout: 50,interpolateType: "spline", direction : "bounce"});
+          var player = new NGL.TrajectoryPlayer( traj,{step: 1, timeout: 10,interpolateType: "spline", direction : "bounce"});
           player.play();
         });      
         nucl.autoView();
