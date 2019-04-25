@@ -43,8 +43,7 @@
         shape.addCylinder([54.92850112915039, 131.3939971923828, 51.90049743652344],[37.087501525878906, 83.96499633789062, 47.64400100708008], [ 0.6,0.1,0.6 ], 1);
         var shapeComp = stage.addComponentFromObject(shape)
         shapeComp.addRepresentation("buffer")
-        shapeComp.autoView()
-        
+                
       });
     });
   </script>
