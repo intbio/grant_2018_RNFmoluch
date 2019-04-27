@@ -46,20 +46,41 @@
         else
           return "";
       };
+      function format_enst_id(id){
+        if (id)
+          return "<a href='https://www.ensembl.org/Homo_sapiens/Transcript/Summary?t=" + id + "'>" + id + "</a>";
+        else
+          return "";
+      };
+      function format_ensp_id(id){
+        //STRINGDB
+        if (id)
+          return "<a href='https://string-db.org/network/9606." + id + "'>" + id + "</a>";
+        else
+          return "";
+      };
       function format_genecard_id(id){
         if (id)
           return "<a href='https://www.genecards.org/cgi-bin/carddisp.pl?gene=" + id + "'>" + id + "</a>";
         else
           return "";
       };
+      function format_uniprot_id(id){
+        if (id)
+          return "<a href='https://www.uniprot.org/uniprot/" + id + "'>" + id + "</a>";
+        else
+          return "";
+      };
+        
+        
        
       CsvToHtmlTable.init({
         csv_path: 'csv_files/histone_proteins.csv',
         element: 'table-container', 
         allow_download: true,
         csv_options: {separator: ',', delimiter: '"'},
-        datatables_options: {"paging": false} //,
-        //custom_formatting: [[2, format_genecard_id],[3, format_ncbi_genid],[4, format_ensg_id]]
+        datatables_options: {"paging": false} ,
+        custom_formatting: [[2, format_genecard_id],[3, format_ncbi_genid],[4, format_ensg_id],[5, format_enst_id],[6, format_ensp_id],[7, format_uniprot_id]]
       });
     </script>
   </body>
