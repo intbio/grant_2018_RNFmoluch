@@ -34,20 +34,32 @@
 
 
     <script type="text/javascript">
-      function format_link(link){
-        if (link)
-          return "<a href='" + link + "' target='_blank'>" + link + "</a>";
+      function format_ncbi_genid(id){
+        if (id)
+          return "<a href=https://www.ncbi.nlm.nih.gov/gene/?term='" + id + "' target='_blank'>" + id + "</a>";
         else
           return "";
-      }
-
+      };
+      function format_ensg_id(id){
+        if (id)
+          return "<a href=https://www.ensembl.org/Homo_sapiens/Gene/Summary?g='" + id + "' target='_blank'>" + id + "</a>";
+        else
+          return "";
+      };
+      function format_genecard_id(id){
+        if (id)
+          return "<a href=https://www.genecards.org/cgi-bin/carddisp.pl?gene='" + id + "' target='_blank'>" + id + "</a>";
+        else
+          return "";
+      };
+       
       CsvToHtmlTable.init({
         csv_path: 'csv_files/histone_genes.csv',
         element: 'table-container', 
         allow_download: true,
         csv_options: {separator: ',', delimiter: '"'},
         datatables_options: {"paging": false},
-        custom_formatting: [[4, format_link]]
+        custom_formatting: [[2, format_genecard_id],[3, format_ncbi_genid],[4, format_ensg_id]]
       });
     </script>
   </body>
