@@ -36,19 +36,19 @@
     <script type="text/javascript">
       function format_ncbi_genid(id){
         if (id)
-          return "<a href=https://www.ncbi.nlm.nih.gov/gene/?term='" + id + "' target='_blank'>" + id + "</a>";
+          return "<a href='https://www.ncbi.nlm.nih.gov/gene/?term=" + id + "'>" + id + "</a>";
         else
           return "";
       };
       function format_ensg_id(id){
         if (id)
-          return "<a href=https://www.ensembl.org/Homo_sapiens/Gene/Summary?g='" + id + "' target='_blank'>" + id + "</a>";
+          return "<a href='https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=" + id + "'>" + id + "</a>";
         else
           return "";
       };
       function format_genecard_id(id){
         if (id)
-          return "<a href=https://www.genecards.org/cgi-bin/carddisp.pl?gene='" + id + "' target='_blank'>" + id + "</a>";
+          return "<a href='https://www.genecards.org/cgi-bin/carddisp.pl?gene=" + id + "'>" + id + "</a>";
         else
           return "";
       };
