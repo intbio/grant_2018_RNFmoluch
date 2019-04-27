@@ -1,101 +1,101 @@
 PDBID, Non-histone, H3, H4, H2A, H2B, H1, DNA, type, description 
-5HQ2, 2, 1, 1, 1, 1, 0, +, prot_nucleosome_no_h1, 'Structural model of Set8 histone H4 Lys20 methyltransferase bound to nucleosome core particle'
-1ZLA, 1, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, 'X-ray Structure of a Kaposi's sarcoma herpesvirus LANA peptide bound to the nucleosomal core'
-6G0L, 2, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, 'Structure of two molecules of the chromatin remodelling enzyme Chd1 bound to a nucleosome'
-6J4W, 15, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, 'RNA polymerase II elongation complex bound with Elf1 and Spt4/5\, stalled at SHL(-5) of the nucleosome'
-5G2E, 12, 0, 0, 6, 6, 0, , prot_h2a_h2b_dimer, 'Structure of the Nap1 H2A H2B complex'
-2YFV, 1, 1, 1, 0, 0, 0, , prot_h3_h4_dimer, 'The heterotrimeric complex of Kluyveromyces lactis Scm3\, Cse4 and H4'
-4H9S, 2, 2, 2, 0, 0, 0, , prot_h3_h4_tetramer, 'Complex structure 6 of DAXX/H3.3(sub7)/H4'
-6C0W, 1, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, 'Cryo-EM structure of human kinetochore protein CENP-N with the centromeric nucleosome containing CENP-A'
-2IO5, 1, 1, 1, 0, 0, 0, , prot_h3_h4_dimer, 'Crystal structure of the CIA- histone H3-H4 complex'
-5BT1, 2, 0, 0, 1, 1, 0, , prot_h2a_h2b_dimer, 'histone chaperone Hif1 playing with histone H2A-H2B dimer'
-6J99, 2, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, 'Cryo-EM structure of human DOT1L in complex with an H2B-monoubiquitinated nucleosome'
-5BNV, 2, 2, 2, 0, 0, 0, , prot_h3_h4_tetramer, 'Crystal structure of Human MCM2 HBD chaperoning a histone H3-H4 tetramer'
-5ZBB, 2, 1, 1, 0, 0, 0, , prot_h3_h4_dimer, 'Crystal structure of Rtt109-Asf1-H3-H4 complex'
-6J4X, 15, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, 'RNA polymerase II elongation complex bound with Elf1 and Spt4/5\, stalled at SHL(-1) of the nucleosome (+1A)'
-6N1Z, 2, 0, 0, 2, 2, 0, , prot_h2a_h2b_dimer, 'Importin-9 bound to H2A-H2B'
-4ZUX, 20, 4, 4, 4, 4, 0, +, prot_nucleosome_no_h1, 'SAGA DUB module Ubp8/Sgf11/Sus1/Sgf73 bound to ubiqitinated nucleosome'
-4H9P, 1, 1, 1, 0, 0, 0, , prot_h3_h4_dimer, 'Complex structure 3 of DAXX/H3.3(sub5\,G90A)/H4'
-5ZBA, 2, 1, 1, 0, 0, 0, , prot_h3_h4_dimer, 'Crystal structure of Rtt109-Asf1-H3-H4-CoA complex'
-5VEY, 2, 0, 0, 1, 0, 0, , prot_h2a_monomer, 'Solution NMR structure of histone H2A-H2B mono-ubiquitylated at H2A Lys15 in complex with RNF169 (653-708)'
-4G92, 2, 0, 0, 1, 0, 0, +, prot_h2a_monomer, 'CCAAT-binding complex from Aspergillus nidulans with DNA'
-5E5A, 1, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, 'Crystal structure of the chromatin-tethering domain of Human cytomegalovirus IE1 protein bound to the nucleosome core particle'
-5KGF, 4, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, 'Structural model of 53BP1 bound to a ubiquitylated and methylated nucleosome\, at 4.5 A resolution'
-6GEJ, 9, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, 'Chromatin remodeller-nucleosome complex at 3.6 A resolution.'
-5JA4, 2, 1, 1, 0, 0, 0, , prot_h3_h4_dimer, 'Crystal structure of human TONSL and MCM2 HBDs binding to a histone H3-H4 tetramer'
-4X23, 4, 4, 4, 4, 4, 0, +, prot_nucleosome_no_h1, 'CRYSTAL STRUCTURE OF CENP-C IN COMPLEX WITH THE NUCLEOSOME CORE PARTICLE'
-4ZBJ, 2, 1, 1, 0, 0, 0, , prot_h3_h4_dimer, 'UBN1 peptide bound to H3.3/H4/Asf1'
-4M6B, 2, 0, 0, 0, 2, 0, , prot_h2b_monomer, 'Crystal structure of yeast Swr1-Z domain in complex with H2A.Z-H2B dimer'
-4Z2M, 1, 2, 2, 0, 0, 0, , prot_h3_h4_tetramer, 'Crystal structure of human SPT16 Mid-AID/H3-H4 tetramer FACT Histone complex'
-3MVD, 2, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, 'Crystal structure of the chromatin factor RCC1 in complex with the nucleosome core particle'
-6BUZ, 1, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, 'Cryo-EM structure of CENP-A nucleosome in complex with kinetochore protein CENP-N'
-6IRO, 1, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, 'the crosslinked complex of ISWI-nucleosome in the ADP-bound state'
-5GTC, 1, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, 'Crystal structure of complex between DMAP-SH conjugated with a Kaposi's sarcoma herpesvirus LANA peptide (5-15) and nucleosome core particle'
-5O9G, 1, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, 'Structure of nucleosome-Chd1 complex'
-6J4Y, 15, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, 'RNA polymerase II elongation complex bound with Elf1 and Spt4/5\, stalled at SHL(-1) of the nucleosome (+1B)'
-5C3I, 12, 6, 6, 0, 0, 0, , prot_h3_h4_dimer, 'Crystal structure of the quaternary complex of histone H3-H4 heterodimer with chaperone ASF1 and the replicative helicase subunit MCM2'
-6J51, 15, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, 'RNA polymerase II elongation complex bound with Spt4/5 and foreign DNA\, stalled at SHL(-1) of the nucleosome\, weak Elf1 (+1 position)'
-6HTS, 9, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, 'Cryo-EM structure of the human INO80 complex bound to nucleosome'
-6A5O, 12, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, 'RNA polymerase II elongation complex stalled at SHL(-6) of the nucleosome'
-6AE8, 2, 0, 0, 0, 2, 0, , prot_h2b_monomer, 'Structure insight into histone chaperone Chz1-mediated H2A.Z recognition and replacement'
-6FML, 10, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, 'CryoEM Structure INO80core Nucleosome complex'
-6A5P, 12, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, 'RNA polymerase II elongation complex stalled at SHL(-5) of the nucleosome'
-6A5T, 12, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, 'RNA polymerase II elongation complex stalled at SHL(-1) of the nucleosome'
-4CAY, 1, 0, 0, 1, 1, 0, , prot_h2a_h2b_dimer, 'Crystal structure of a human Anp32e-H2A.Z-H2B complex'
-6BIZ, 2, 0, 0, 0, 1, 0, , prot_h2b_monomer, 'HLA-DRB1 in complex with citrullinated Histone 2B peptide'
-6J4Z, 14, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, 'RNA polymerase II elongation complex bound with Spt4/5 and foreign DNA\, stalled at SHL(-1) of the nucleosome'
-5BSA, 2, 2, 2, 0, 0, 0, , prot_h3_h4_tetramer, 'Structure of histone H3/H4 in complex with Spt2'
-6IRM, 1, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, 'The crosslinked complex of ISWI-nucleosome in the ADP.BeF-bound state'
-4CSR, 1, 0, 0, 1, 0, 0, , prot_h2a_monomer, 'High resolution crystal structure of the histone fold dimer (NF-YB)-(NF-YC)'
-4H9O, 1, 1, 1, 0, 0, 0, , prot_h3_h4_dimer, 'Complex structure 2 of DAXX/H3.3(sub5\,G90M)/H4'
-5BS7, 2, 2, 2, 0, 0, 0, , prot_h3_h4_tetramer, 'Structure of histone H3/H4 in complex with Spt2'
-5X0X, 1, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, 'Complex of Snf2-Nucleosome complex with Snf2 bound to position +6 of the nucleosome'
-6GEN, 9, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, 'Chromatin remodeller-nucleosome complex at 4.5 A resolution.'
-5Z3L, 1, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, 'Structure of Snf2-nucleosome complex in apo state'
-4WZS, 3, 0, 0, 1, 0, 0, +, prot_h2a_monomer, 'Crystal structure of the Mot1 N-terminal domain in complex with TBP and NC2 bound to a promoter DNA fragment'
-6R25, 2, 3, 2, 2, 2, 0, +, prot_nucleosome_no_h1, 'Structure of LSD2/NPAC-linker/nucleosome core particle complex: Class 3'
-6NQA, 2, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, 'Active state Dot1L bound to the H2B-Ubiquitinated nucleosome\, 1-to-1 complex'
-6J50, 14, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, 'RNA polymerase II elongation complex bound with Spt4/5 and foreign DNA\, stalled at SHL(-1) of the nucleosome (tilted conformation)'
-4LD9, 2, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, 'Crystal structure of the N-terminally acetylated BAH domain of Sir3 bound to the nucleosome core particle'
-6INQ, 12, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, 'RNA polymerase II elongation complex stalled at SHL(-1) of the nucleosome\, with foreign DNA (+1 position)'
-4H9N, 1, 1, 1, 0, 0, 0, , prot_h3_h4_dimer, 'Complex structure 1 of DAXX/H3.3(sub5)/H4'
-2HUE, 1, 1, 1, 0, 0, 0, , prot_h3_h4_dimer, 'Structure of the H3-H4 chaperone Asf1 bound to histones H3 and H4'
-4R8P, 4, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, 'Crystal structure of the Ring1B/Bmi1/UbcH5c PRC1 ubiquitylation module bound to the nucleosome core particle'
-6NOG, 2, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, 'Poised-state Dot1L bound to the H2B-Ubiquitinated nucleosome'
-4KUD, 2, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, 'Crystal structure of N-terminal acetylated Sir3 BAH domain D205N mutant in complex with yeast nucleosome core particle'
-6NJ9, 2, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, 'Active state Dot1L bound to the H2B-Ubiquitinated nucleosome\, 2-to-1 complex'
-6A5U, 12, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, 'RNA polymerase II elongation complex stalled at SHL(-1) of the nucleosome\, with foreign DNA\, tilt conformation'
-3TU4, 2, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, 'Crystal structure of the Sir3 BAH domain in complex with a nucleosome core particle.'
-5Z3T, 1, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, 'Structure of Snf2-nucleosome complex in ADP BeFx state'
-4WNN, 1, 0, 0, 4, 4, 0, , prot_h2a_h2b_dimer, 'SPT16-H2A-H2B FACT HISTONE Complex'
-5Z3O, 1, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, 'Structure of Snf2-nucleosome complex in ADP state'
-4H9Q, 1, 1, 1, 0, 0, 0, , prot_h3_h4_dimer, 'Complex structure 4 of DAXX(E225A)/H3.3(sub5)/H4'
-4EO5, 1, 1, 1, 0, 0, 0, , prot_h3_h4_dimer, 'Yeast Asf1 bound to H3/H4G94P mutant'
-4UUZ, 1, 1, 1, 0, 0, 0, , prot_h3_h4_dimer, 'MCM2-histone complex'
-4G91, 2, 0, 0, 1, 0, 0, , prot_h2a_monomer, 'CCAAT-binding complex from Aspergillus nidulans'
-5MLU, 1, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, 'Crystal structure of the PFV GAG CBS bound to a mononucleosome'
-6I84, 12, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, 'Structure of transcribing RNA polymerase II-nucleosome complex'
-6IRN, 1, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, 'The complex of ISWI-nucleosome in the ADP.BeF-bound state'
-5KDM, 2, 1, 1, 0, 0, 0, , prot_h3_h4_dimer, 'Crystal structure of EBV tegument protein BNRF1 in complex with histone chaperone DAXX and histones H3.3-H4'
-6R1U, 2, 3, 2, 2, 2, 0, +, prot_nucleosome_no_h1, 'Structure of LSD2/NPAC-linker/nucleosome core particle complex: Class 2'
-4H9R, 1, 1, 1, 0, 0, 0, , prot_h3_h4_dimer, 'Complex structure 5 of DAXX(E225A)/H3.3(sub5\,G90A)/H4'
-6FTX, 3, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, 'Structure of the chromatin remodelling enzyme Chd1 bound to a ubiquitinylated nucleosome'
-6NN6, 2, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, 'Structure of Dot1L-H2BK120ub nucleosome complex'
-3R45, 1, 1, 1, 0, 0, 0, , prot_h3_h4_dimer, 'Structure of a CENP-A-Histone H4 Heterodimer in complex with chaperone HJURP'
-4JJN, 2, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, 'Crystal structure of heterochromatin protein Sir3 in complex with a silenced yeast nucleosome'
-5BO0, 2, 1, 1, 0, 0, 0, , prot_h3_h4_dimer, 'Crystal structure of Human MCM2 HBD and ASF1b chaperoning a histone H3.2-H4 dimer'
-5BNX, 2, 1, 1, 0, 0, 0, , prot_h3_h4_dimer, 'Crystal structure of Human MCM2 HBD and ASF1b chaperoning a histone H3.3-H4 dimer'
-6IR9, 15, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, 'RNA polymerase II elongation complex bound with Elf1 and Spt4/5\, stalled at SHL(-1) of the nucleosome'
-6IY3, 1, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, 'Structure of Snf2-MMTV-A nucleosome complex at shl-2 in ADP state'
-5FUG, 4, 0, 0, 4, 4, 0, , prot_h2a_h2b_dimer, 'Crystal structure of a human YL1-H2A.Z-H2B complex'
-3IBX, 1, 0, 0, 0, 1, 0, , prot_h2b_monomer, 'Crystal structure of F47Y variant of TenA (HP1287) from Helicobacter pylori'
-4XYI, 1, 0, 1, 0, 0, 0, , prot_h4_monomer, 'Mis16 with H4 peptide'
-6IY2, 1, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, 'Structure of Snf2-MMTV-A nucleosome complex at shl2 in ADP state'
-5CHL, 1, 0, 0, 0, 1, 0, , prot_h2b_monomer, 'Structural basis of H2A.Z recognition by YL1 histone chaperone component of SRCAP/SWR1 chromatin remodeling complex'
-6A5R, 12, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, 'RNA polymerase II elongation complex stalled at SHL(-2) of the nucleosome'
-4NFT, 2, 0, 0, 0, 4, 0, , prot_h2b_monomer, 'Crystal structure of human lnkH2B-h2A.Z-Anp32e'
-4HGA, 1, 1, 1, 0, 0, 0, , prot_h3_h4_dimer, 'Structure of the variant histone H3.3-H4 heterodimer in complex with its chaperone DAXX'
-2JSS, 1, 0, 0, 0, 1, 0, , prot_h2b_monomer, 'NMR structure of chaperone Chz1 complexed with histone H2A.Z-H2B'
-6O96, 2, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, 'Dot1L bound to the H2BK120 Ubiquitinated nucleosome'
-6A5L, 12, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, 'RNA polymerase II elongation complex stalled at SHL(-1) of the nucleosome\, with foreign DNA'
-5X0Y, 1, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, 'Complex of Snf2-Nucleosome complex with Snf2 bound to SHL2 of the nucleosome'
+5HQ2, 2, 1, 1, 1, 1, 0, +, prot_nucleosome_no_h1, "Structural model of Set8 histone H4 Lys20 methyltransferase bound to nucleosome core particle"
+1ZLA, 1, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, "X-ray Structure of a Kaposi"s sarcoma herpesvirus LANA peptide bound to the nucleosomal core"
+6G0L, 2, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, "Structure of two molecules of the chromatin remodelling enzyme Chd1 bound to a nucleosome"
+6J4W, 15, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, "RNA polymerase II elongation complex bound with Elf1 and Spt4/5, stalled at SHL(-5) of the nucleosome"
+5G2E, 12, 0, 0, 6, 6, 0, , prot_h2a_h2b_dimer, "Structure of the Nap1 H2A H2B complex"
+2YFV, 1, 1, 1, 0, 0, 0, , prot_h3_h4_dimer, "The heterotrimeric complex of Kluyveromyces lactis Scm3, Cse4 and H4"
+4H9S, 2, 2, 2, 0, 0, 0, , prot_h3_h4_tetramer, "Complex structure 6 of DAXX/H3.3(sub7)/H4"
+6C0W, 1, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, "Cryo-EM structure of human kinetochore protein CENP-N with the centromeric nucleosome containing CENP-A"
+2IO5, 1, 1, 1, 0, 0, 0, , prot_h3_h4_dimer, "Crystal structure of the CIA- histone H3-H4 complex"
+5BT1, 2, 0, 0, 1, 1, 0, , prot_h2a_h2b_dimer, "histone chaperone Hif1 playing with histone H2A-H2B dimer"
+6J99, 2, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, "Cryo-EM structure of human DOT1L in complex with an H2B-monoubiquitinated nucleosome"
+5BNV, 2, 2, 2, 0, 0, 0, , prot_h3_h4_tetramer, "Crystal structure of Human MCM2 HBD chaperoning a histone H3-H4 tetramer"
+5ZBB, 2, 1, 1, 0, 0, 0, , prot_h3_h4_dimer, "Crystal structure of Rtt109-Asf1-H3-H4 complex"
+6J4X, 15, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, "RNA polymerase II elongation complex bound with Elf1 and Spt4/5, stalled at SHL(-1) of the nucleosome (+1A)"
+6N1Z, 2, 0, 0, 2, 2, 0, , prot_h2a_h2b_dimer, "Importin-9 bound to H2A-H2B"
+4ZUX, 20, 4, 4, 4, 4, 0, +, prot_nucleosome_no_h1, "SAGA DUB module Ubp8/Sgf11/Sus1/Sgf73 bound to ubiqitinated nucleosome"
+4H9P, 1, 1, 1, 0, 0, 0, , prot_h3_h4_dimer, "Complex structure 3 of DAXX/H3.3(sub5,G90A)/H4"
+5ZBA, 2, 1, 1, 0, 0, 0, , prot_h3_h4_dimer, "Crystal structure of Rtt109-Asf1-H3-H4-CoA complex"
+5VEY, 2, 0, 0, 1, 0, 0, , prot_h2a_monomer, "Solution NMR structure of histone H2A-H2B mono-ubiquitylated at H2A Lys15 in complex with RNF169 (653-708)"
+4G92, 2, 0, 0, 1, 0, 0, +, prot_h2a_monomer, "CCAAT-binding complex from Aspergillus nidulans with DNA"
+5E5A, 1, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, "Crystal structure of the chromatin-tethering domain of Human cytomegalovirus IE1 protein bound to the nucleosome core particle"
+5KGF, 4, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, "Structural model of 53BP1 bound to a ubiquitylated and methylated nucleosome, at 4.5 A resolution"
+6GEJ, 9, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, "Chromatin remodeller-nucleosome complex at 3.6 A resolution."
+5JA4, 2, 1, 1, 0, 0, 0, , prot_h3_h4_dimer, "Crystal structure of human TONSL and MCM2 HBDs binding to a histone H3-H4 tetramer"
+4X23, 4, 4, 4, 4, 4, 0, +, prot_nucleosome_no_h1, "CRYSTAL STRUCTURE OF CENP-C IN COMPLEX WITH THE NUCLEOSOME CORE PARTICLE"
+4ZBJ, 2, 1, 1, 0, 0, 0, , prot_h3_h4_dimer, "UBN1 peptide bound to H3.3/H4/Asf1"
+4M6B, 2, 0, 0, 0, 2, 0, , prot_h2b_monomer, "Crystal structure of yeast Swr1-Z domain in complex with H2A.Z-H2B dimer"
+4Z2M, 1, 2, 2, 0, 0, 0, , prot_h3_h4_tetramer, "Crystal structure of human SPT16 Mid-AID/H3-H4 tetramer FACT Histone complex"
+3MVD, 2, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, "Crystal structure of the chromatin factor RCC1 in complex with the nucleosome core particle"
+6BUZ, 1, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, "Cryo-EM structure of CENP-A nucleosome in complex with kinetochore protein CENP-N"
+6IRO, 1, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, "the crosslinked complex of ISWI-nucleosome in the ADP-bound state"
+5GTC, 1, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, "Crystal structure of complex between DMAP-SH conjugated with a Kaposi"s sarcoma herpesvirus LANA peptide (5-15) and nucleosome core particle"
+5O9G, 1, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, "Structure of nucleosome-Chd1 complex"
+6J4Y, 15, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, "RNA polymerase II elongation complex bound with Elf1 and Spt4/5, stalled at SHL(-1) of the nucleosome (+1B)"
+5C3I, 12, 6, 6, 0, 0, 0, , prot_h3_h4_dimer, "Crystal structure of the quaternary complex of histone H3-H4 heterodimer with chaperone ASF1 and the replicative helicase subunit MCM2"
+6J51, 15, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, "RNA polymerase II elongation complex bound with Spt4/5 and foreign DNA, stalled at SHL(-1) of the nucleosome, weak Elf1 (+1 position)"
+6HTS, 9, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, "Cryo-EM structure of the human INO80 complex bound to nucleosome"
+6A5O, 12, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, "RNA polymerase II elongation complex stalled at SHL(-6) of the nucleosome"
+6AE8, 2, 0, 0, 0, 2, 0, , prot_h2b_monomer, "Structure insight into histone chaperone Chz1-mediated H2A.Z recognition and replacement"
+6FML, 10, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, "CryoEM Structure INO80core Nucleosome complex"
+6A5P, 12, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, "RNA polymerase II elongation complex stalled at SHL(-5) of the nucleosome"
+6A5T, 12, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, "RNA polymerase II elongation complex stalled at SHL(-1) of the nucleosome"
+4CAY, 1, 0, 0, 1, 1, 0, , prot_h2a_h2b_dimer, "Crystal structure of a human Anp32e-H2A.Z-H2B complex"
+6BIZ, 2, 0, 0, 0, 1, 0, , prot_h2b_monomer, "HLA-DRB1 in complex with citrullinated Histone 2B peptide"
+6J4Z, 14, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, "RNA polymerase II elongation complex bound with Spt4/5 and foreign DNA, stalled at SHL(-1) of the nucleosome"
+5BSA, 2, 2, 2, 0, 0, 0, , prot_h3_h4_tetramer, "Structure of histone H3/H4 in complex with Spt2"
+6IRM, 1, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, "The crosslinked complex of ISWI-nucleosome in the ADP.BeF-bound state"
+4CSR, 1, 0, 0, 1, 0, 0, , prot_h2a_monomer, "High resolution crystal structure of the histone fold dimer (NF-YB)-(NF-YC)"
+4H9O, 1, 1, 1, 0, 0, 0, , prot_h3_h4_dimer, "Complex structure 2 of DAXX/H3.3(sub5,G90M)/H4"
+5BS7, 2, 2, 2, 0, 0, 0, , prot_h3_h4_tetramer, "Structure of histone H3/H4 in complex with Spt2"
+5X0X, 1, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, "Complex of Snf2-Nucleosome complex with Snf2 bound to position +6 of the nucleosome"
+6GEN, 9, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, "Chromatin remodeller-nucleosome complex at 4.5 A resolution."
+5Z3L, 1, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, "Structure of Snf2-nucleosome complex in apo state"
+4WZS, 3, 0, 0, 1, 0, 0, +, prot_h2a_monomer, "Crystal structure of the Mot1 N-terminal domain in complex with TBP and NC2 bound to a promoter DNA fragment"
+6R25, 2, 3, 2, 2, 2, 0, +, prot_nucleosome_no_h1, "Structure of LSD2/NPAC-linker/nucleosome core particle complex: Class 3"
+6NQA, 2, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, "Active state Dot1L bound to the H2B-Ubiquitinated nucleosome, 1-to-1 complex"
+6J50, 14, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, "RNA polymerase II elongation complex bound with Spt4/5 and foreign DNA, stalled at SHL(-1) of the nucleosome (tilted conformation)"
+4LD9, 2, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, "Crystal structure of the N-terminally acetylated BAH domain of Sir3 bound to the nucleosome core particle"
+6INQ, 12, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, "RNA polymerase II elongation complex stalled at SHL(-1) of the nucleosome, with foreign DNA (+1 position)"
+4H9N, 1, 1, 1, 0, 0, 0, , prot_h3_h4_dimer, "Complex structure 1 of DAXX/H3.3(sub5)/H4"
+2HUE, 1, 1, 1, 0, 0, 0, , prot_h3_h4_dimer, "Structure of the H3-H4 chaperone Asf1 bound to histones H3 and H4"
+4R8P, 4, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, "Crystal structure of the Ring1B/Bmi1/UbcH5c PRC1 ubiquitylation module bound to the nucleosome core particle"
+6NOG, 2, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, "Poised-state Dot1L bound to the H2B-Ubiquitinated nucleosome"
+4KUD, 2, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, "Crystal structure of N-terminal acetylated Sir3 BAH domain D205N mutant in complex with yeast nucleosome core particle"
+6NJ9, 2, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, "Active state Dot1L bound to the H2B-Ubiquitinated nucleosome, 2-to-1 complex"
+6A5U, 12, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, "RNA polymerase II elongation complex stalled at SHL(-1) of the nucleosome, with foreign DNA, tilt conformation"
+3TU4, 2, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, "Crystal structure of the Sir3 BAH domain in complex with a nucleosome core particle."
+5Z3T, 1, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, "Structure of Snf2-nucleosome complex in ADP BeFx state"
+4WNN, 1, 0, 0, 4, 4, 0, , prot_h2a_h2b_dimer, "SPT16-H2A-H2B FACT HISTONE Complex"
+5Z3O, 1, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, "Structure of Snf2-nucleosome complex in ADP state"
+4H9Q, 1, 1, 1, 0, 0, 0, , prot_h3_h4_dimer, "Complex structure 4 of DAXX(E225A)/H3.3(sub5)/H4"
+4EO5, 1, 1, 1, 0, 0, 0, , prot_h3_h4_dimer, "Yeast Asf1 bound to H3/H4G94P mutant"
+4UUZ, 1, 1, 1, 0, 0, 0, , prot_h3_h4_dimer, "MCM2-histone complex"
+4G91, 2, 0, 0, 1, 0, 0, , prot_h2a_monomer, "CCAAT-binding complex from Aspergillus nidulans"
+5MLU, 1, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, "Crystal structure of the PFV GAG CBS bound to a mononucleosome"
+6I84, 12, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, "Structure of transcribing RNA polymerase II-nucleosome complex"
+6IRN, 1, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, "The complex of ISWI-nucleosome in the ADP.BeF-bound state"
+5KDM, 2, 1, 1, 0, 0, 0, , prot_h3_h4_dimer, "Crystal structure of EBV tegument protein BNRF1 in complex with histone chaperone DAXX and histones H3.3-H4"
+6R1U, 2, 3, 2, 2, 2, 0, +, prot_nucleosome_no_h1, "Structure of LSD2/NPAC-linker/nucleosome core particle complex: Class 2"
+4H9R, 1, 1, 1, 0, 0, 0, , prot_h3_h4_dimer, "Complex structure 5 of DAXX(E225A)/H3.3(sub5,G90A)/H4"
+6FTX, 3, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, "Structure of the chromatin remodelling enzyme Chd1 bound to a ubiquitinylated nucleosome"
+6NN6, 2, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, "Structure of Dot1L-H2BK120ub nucleosome complex"
+3R45, 1, 1, 1, 0, 0, 0, , prot_h3_h4_dimer, "Structure of a CENP-A-Histone H4 Heterodimer in complex with chaperone HJURP"
+4JJN, 2, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, "Crystal structure of heterochromatin protein Sir3 in complex with a silenced yeast nucleosome"
+5BO0, 2, 1, 1, 0, 0, 0, , prot_h3_h4_dimer, "Crystal structure of Human MCM2 HBD and ASF1b chaperoning a histone H3.2-H4 dimer"
+5BNX, 2, 1, 1, 0, 0, 0, , prot_h3_h4_dimer, "Crystal structure of Human MCM2 HBD and ASF1b chaperoning a histone H3.3-H4 dimer"
+6IR9, 15, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, "RNA polymerase II elongation complex bound with Elf1 and Spt4/5, stalled at SHL(-1) of the nucleosome"
+6IY3, 1, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, "Structure of Snf2-MMTV-A nucleosome complex at shl-2 in ADP state"
+5FUG, 4, 0, 0, 4, 4, 0, , prot_h2a_h2b_dimer, "Crystal structure of a human YL1-H2A.Z-H2B complex"
+3IBX, 1, 0, 0, 0, 1, 0, , prot_h2b_monomer, "Crystal structure of F47Y variant of TenA (HP1287) from Helicobacter pylori"
+4XYI, 1, 0, 1, 0, 0, 0, , prot_h4_monomer, "Mis16 with H4 peptide"
+6IY2, 1, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, "Structure of Snf2-MMTV-A nucleosome complex at shl2 in ADP state"
+5CHL, 1, 0, 0, 0, 1, 0, , prot_h2b_monomer, "Structural basis of H2A.Z recognition by YL1 histone chaperone component of SRCAP/SWR1 chromatin remodeling complex"
+6A5R, 12, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, "RNA polymerase II elongation complex stalled at SHL(-2) of the nucleosome"
+4NFT, 2, 0, 0, 0, 4, 0, , prot_h2b_monomer, "Crystal structure of human lnkH2B-h2A.Z-Anp32e"
+4HGA, 1, 1, 1, 0, 0, 0, , prot_h3_h4_dimer, "Structure of the variant histone H3.3-H4 heterodimer in complex with its chaperone DAXX"
+2JSS, 1, 0, 0, 0, 1, 0, , prot_h2b_monomer, "NMR structure of chaperone Chz1 complexed with histone H2A.Z-H2B"
+6O96, 2, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, "Dot1L bound to the H2BK120 Ubiquitinated nucleosome"
+6A5L, 12, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, "RNA polymerase II elongation complex stalled at SHL(-1) of the nucleosome, with foreign DNA"
+5X0Y, 1, 2, 2, 2, 2, 0, +, prot_nucleosome_no_h1, "Complex of Snf2-Nucleosome complex with Snf2 bound to SHL2 of the nucleosome"
