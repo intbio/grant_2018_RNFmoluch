@@ -28,6 +28,13 @@
         nucl.addRepresentation('licorice', {
            "sele": "not (.N .O .C) and (104:A 43:B 81:B 82:A)","radius": 0.6});
         nucl.autoView();
+        var shape = new NGL.Shape("shape", { disableImpostor: true, radialSegments: 10 })
+       shape.addArrow([ 50, 70, 40 ], [ 65.729,  83.095,  21.864 ], [ 1, 0.3, 0.2 ], 0.7)
+       shape.addArrow([ 80, 120, 10 ], [ 62.087, 107.969,   3.767 ], [ 1, 0.3, 0.2 ], 0.7)
+       shape.addText([ 50, 70, 40 ], [ 0, 0, 0 ], 6, "82H3-81H4")
+       shape.addText([ 80, 120, 10 ], [ 0, 0, 0 ], 6, "104H3-43H4")
+       var shapeComp = stage.addComponentFromObject(shape)
+       shapeComp.addRepresentation("buffer", { wireframe: false })
         
       });
     });
