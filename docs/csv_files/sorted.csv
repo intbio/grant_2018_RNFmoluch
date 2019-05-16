@@ -1,0 +1,274 @@
+PDBID; Description; Non_histone (number); Non_histone (descr); H3 num; H4 num; H2A num; H2B num; DNA num; Linker histone num; Sorted type 
+5HQ2;Structural model of Set8 histone H4 Lys20 methyltransferase bound to nucleosome core particle;2;n-lysine methyltransferase setd8;1;1;1;1;2;0;9_nucl_prot
+1P3P;Crystallographic Studies of Nucleosome Core Particles containing Histone 'Sin' Mutants;0;-;2;2;2;2;2;0;9_nucl
+1ZLA;X-ray Structure of a Kaposi's sarcoma herpesvirus LANA peptide bound to the nucleosomal core;1;latent nuclear antigen;2;2;2;2;2;0;9_nucl_prot
+6G0L;Structure of two molecules of the chromatin remodelling enzyme Chd1 bound to a nucleosome;2;chromo domain-containing protein 1;2;4;2;0;2;0;9_nucl_prot
+6J4W;RNA polymerase II elongation complex bound with Elf1 and Spt4/5, stalled at SHL(-5) of the nucleosome;15;dna-directed rna polymerase subunit;2;2;2;2;2;0;9_nucl_prot
+5B1L;The mouse nucleosome structure containing H3t;0;-;2;2;2;2;2;0;9_nucl
+5G2E;Structure of the Nap1 H2A H2B complex;12;nucleosome assembly protein;0;0;6;6;0;0;2_di_h2ah2b_prot
+4YM5;Crystal structure of the human nucleosome containing 6-4PP (inside);0;-;2;2;2;2;2;0;9_nucl
+2YFV;The heterotrimeric complex of Kluyveromyces lactis Scm3, Cse4 and H4;1;scm3;1;1;0;0;0;0;2_di_h3h4_prot
+3NQJ;Crystal structure of (CENP-A/H4)2 heterotetramer;0;-;1;1;0;0;0;0;2_di_h3h4
+4H9S;Complex structure 6 of DAXX/H3.3(sub7)/H4;2;death domain-associated protein 6;2;2;0;0;0;0;4_tetr_h3h4_prot
+3AN2;The structure of the centromeric nucleosome containing CENP-A;0;-;2;2;2;2;2;0;9_nucl
+6C0W;Cryo-EM structure of human kinetochore protein CENP-N with the centromeric nucleosome containing CENP-A;1;centromere protein n;2;2;2;2;2;0;9_nucl_prot
+1ZBB;Structure of the 4_601_167 Tetranucleosome;0;-;4;4;4;4;2;0;9_nucl
+2IO5;Crystal structure of the CIA- histone H3-H4 complex;1;asf1a protein;1;1;0;0;0;0;2_di_h3h4_prot
+5BT1;histone chaperone Hif1 playing with histone H2A-H2B dimer;2;hat1-interacting factor 1;0;0;1;1;0;0;2_di_h2ah2b_prot
+6J99;Cryo-EM structure of human DOT1L in complex with an H2B-monoubiquitinated nucleosome;1;ubiquitin;3;2;2;2;2;0;9_nucl_prot
+1P3O;Crystallographic Studies of Nucleosome Core Particles containing Histone 'Sin' Mutants;0;-;2;2;2;2;2;0;9_nucl
+6HKT;Structure of an H1-bound 6-nucleosome array;0;-;12;12;12;12;2;0;9_nucl
+1M19;LIGAND BINDING ALTERS THE STRUCTURE AND DYNAMICS OF NUCLEOSOMAL DNA;0;-;2;2;2;2;2;0;9_nucl
+3KXB;Structural characterization of H3K56Q nucleosomes and nucleosomal arrays;0;-;2;2;2;2;2;0;9_nucl
+3AV1;The human nucleosome structure containing the histone variant H3.2;0;-;2;2;2;2;2;0;9_nucl
+5B40;The nucleosome structure containing H2B-K120 and H4-K31 monoubiquitinations;0;-;2;2;2;2;2;0;9_nucl
+5CPJ;Nucleosome containing methylated Sat2R DNA;0;-;2;2;2;2;2;0;9_nucl
+3C9K;Model of Histone Octamer Tubular Crystals;0;-;2;2;2;2;0;0;8_oct
+6ESI;Nucleosome breathing : Class 4;0;-;2;2;2;2;2;0;9_nucl
+5Z30;The crystal structure of the nucleosome containing a cancer-associated histone H2A.Z R80C mutant;0;-;2;2;2;2;2;0;9_nucl
+5BNV;Crystal structure of Human MCM2 HBD chaperoning a histone H3-H4 tetramer;2;dna replication licensing factor mcm2;2;2;0;0;0;0;4_tetr_h3h4_prot
+5ZBB;Crystal structure of Rtt109-Asf1-H3-H4 complex;2;histone chaperone asf1;1;1;0;0;0;0;2_di_h3h4_prot
+3WA9;The nucleosome containing human H2A.Z.1;0;-;2;2;2;2;2;0;9_nucl
+1KX5;X-Ray Structure of the Nucleosome Core Particle, NCP147, at 1.9 A Resolution;0;-;2;2;2;2;2;0;9_nucl
+6J4X;RNA polymerase II elongation complex bound with Elf1 and Spt4/5, stalled at SHL(-1) of the nucleosome (+1A);15;dna-directed rna polymerase subunit;2;2;2;2;2;0;9_nucl_prot
+5AV9;human nucleosome core particle;0;-;2;2;2;2;2;0;9_nucl
+4J8U;X-ray structure of NCP145 with chlorido(eta-6-p-cymene)(N-phenyl-2-pyridinecarbothioamide)osmium(II);0;-;2;2;2;2;2;0;9_nucl
+2L5A;Structural basis for recognition of centromere specific histone H3 variant by nonhistone Scm3;0;-;1;0;0;0;0;0;1_mon_h3
+6N1Z;Importin-9 bound to H2A-H2B;2;importin-9;0;0;2;2;0;0;2_di_h2ah2b_prot
+1P3F;Crystallographic Studies of Nucleosome Core Particles containing Histone 'Sin' Mutants;0;-;2;2;2;2;2;0;9_nucl
+3AV2;The human nucleosome structure containing the histone variant H3.3;0;-;2;2;2;2;2;0;9_nucl
+5GSE;Crystal structure of unusual nucleosome;0;-;4;4;3;3;2;0;9_nucl
+3X1V;Crystal structure of nucleosome core particle in the presence of histone variant involved in reprogramming;0;-;2;2;2;2;2;0;9_nucl
+4J8W;X-ray structure of NCP145 with chlorido(eta-6-p-cymene)(N-fluorophenyl-2-pyridinecarbothioamide)osmium(II);0;-;2;2;2;2;2;0;9_nucl
+4ZUX;SAGA DUB module Ubp8/Sgf11/Sus1/Sgf73 bound to ubiqitinated nucleosome;20;saga-associated factor 11;4;4;4;4;4;0;9_nucl_prot
+3REK;2.6 Angstrom Crystal Structure of the Nucleosome Core Particle Assembled with a 146 bp Alpha-Satellite DNA (NCP146b) Derivatized with Oxaliplatin;0;-;2;2;2;2;2;0;9_nucl
+1P3I;Crystallographic Studies of Nucleosome Core Particles containing Histone 'Sin' Mutants;0;-;2;2;2;2;2;0;9_nucl
+3AZE;Crystal Structure of Human Nucleosome Core Particle Containing H3K64Q mutation;0;-;2;2;2;2;2;0;9_nucl
+1HIO;HISTONE OCTAMER (CHICKEN), CHROMOSOMAL PROTEIN, ALPHA CARBONS ONLY;0;-;1;1;1;1;0;0;8_oct
+4H9P;Complex structure 3 of DAXX/H3.3(sub5,G90A)/H4;1;death domain-associated protein 6;1;1;0;0;0;0;2_di_h3h4_prot
+5ZBA;Crystal structure of Rtt109-Asf1-H3-H4-CoA complex;2;histone chaperone asf1;1;1;0;0;0;0;2_di_h3h4_prot
+5VEY;Solution NMR structure of histone H2A-H2B mono-ubiquitylated at H2A Lys15 in complex with RNF169 (653-708);2;e3 ubiquitin-protein ligase rnf169;0;0;0;1;0;0;1_mon_h2b_prot
+3UT9;Crystal Structure of Nucleosome Core Particle Assembled with a Palindromic Widom '601' Derivative (NCP-601L);0;-;2;2;2;2;2;0;9_nucl
+5T5K;Structure of histone-based chromatin in Archaea;6;dna-binding protein hmf-2;0;0;0;0;2;0;0_unknown_prot
+4G92;CCAAT-binding complex from Aspergillus nidulans with DNA;3;hape;0;0;0;0;2;0;0_unknown_prot
+3W96;Crystal Structure of Human Nucleosome Core Particle lacking H2A N-terminal region;0;-;2;2;2;2;2;0;9_nucl
+5E5A;Crystal structure of the chromatin-tethering domain of Human cytomegalovirus IE1 protein bound to the nucleosome core particle;1;c-terminal domain of regulatory protein ie1;2;2;2;2;2;0;9_nucl_prot
+3NQU;Crystal structure of partially trypsinized (CENP-A/H4)2 heterotetramer;0;-;1;1;0;0;0;0;2_di_h3h4
+5XF6;Nucleosome core particle with an adduct of a binuclear RAPTA (Ru-arene-phosphaadamantane) compound having an ethylenediamine linker;0;-;2;2;2;2;2;0;9_nucl
+4WU8;Structure of trPtNAP-NCP145;0;-;2;2;2;2;2;0;9_nucl
+5KGF;Structural model of 53BP1 bound to a ubiquitylated and methylated nucleosome, at 4.5 A resolution;4;ubiquitin;2;2;2;2;2;0;9_nucl_prot
+3UTA;Crystal Structure of Nucleosome Core Particle Assembled with an Alpha-Satellite Sequence Containing Two TTAAA elements (NCP-TA2);0;-;2;2;2;2;2;0;9_nucl
+5ZBX;The crystal structure of the nucleosome containing histone H3.1 CATD(V76Q, K77D);0;-;2;2;2;2;2;0;9_nucl
+3LZ0;Crystal Structure of Nucleosome Core Particle Composed of the Widom 601 DNA Sequence (orientation 1);0;-;2;2;2;2;2;0;9_nucl
+5GXQ;The crystal structure of the nucleosome containing H3.6;0;-;2;2;2;2;2;0;9_nucl
+3REI;2.65 Angstrom Crystal Structure of the Nucleosome Core Particle Assembled with a 145 bp Alpha-Satellite DNA (NCP145) Derivatized with Triamminechloroplatinum(II) Chloride;0;-;2;2;2;2;2;0;9_nucl
+3AZG;Crystal Structure of Human Nucleosome Core Particle Containing H3K115Q mutation;0;-;2;2;2;2;2;0;9_nucl
+6GEJ;Chromatin remodeller-nucleosome complex at 3.6 A resolution.;10;actin-like protein arp6;2;2;2;2;2;0;9_nucl_prot
+3UTB;Crystal Structure of Nucleosome Core Particle Assembled with the 146b Alpha-Satellite Sequence (NCP146b);0;-;2;2;2;2;2;0;9_nucl
+6ESH;Nucleosome breathing : Class 3;0;-;2;2;2;2;2;0;9_nucl
+5DNN;Nucleosome core particle containing adducts of gold(I)-triethylphosphane and ruthenium(II)-toluene PTA complexes;0;-;2;2;2;2;2;0;9_nucl
+1P3M;Crystallographic Studies of Nucleosome Core Particles containing Histone 'Sin' Mutants;0;-;2;2;2;2;2;0;9_nucl
+1B6W;CRYSTAL STRUCTURE OF THE SELENOMETHIONINE VARIANT OF HISTONE HMFB FROM METHANOTHERMUS FERVIDUS;0;-;0;0;0;0;0;0;0_unknown
+5CPI;Nucleosome containing unmethylated Sat2R DNA;0;-;2;2;2;2;2;0;9_nucl
+3O62;Nucleosome core particle modified with a cisplatin 1,3-cis-{Pt(NH3)2}2+-d(GpTpG) intrastrand cross-link;0;-;2;2;2;2;2;0;9_nucl
+5JA4;Crystal structure of human TONSL and MCM2 HBDs binding to a histone H3-H4 tetramer;2;tonsoku-like protein;1;1;0;0;0;0;2_di_h3h4_prot
+3LJA;Using Soft X-Rays for a Detailed Picture of Divalent Metal Binding in the Nucleosome;0;-;2;2;2;2;2;0;9_nucl
+5XM0;The mouse nucleosome structure containing H2A, H2B type3-A, H3.3, and H4;0;-;2;2;2;2;2;0;9_nucl
+4X23;CRYSTAL STRUCTURE OF CENP-C IN COMPLEX WITH THE NUCLEOSOME CORE PARTICLE;4;cenp-c;4;4;4;4;4;0;9_nucl_prot
+1F66;2.6 A CRYSTAL STRUCTURE OF A NUCLEOSOME CORE PARTICLE CONTAINING THE VARIANT HISTONE H2A.Z;0;-;2;2;2;2;2;0;9_nucl
+3AZF;Crystal Structure of Human Nucleosome Core Particle Containing H3K79Q mutation;0;-;2;2;2;2;2;0;9_nucl
+3W98;Crystal Structure of Human Nucleosome Core Particle lacking H3.1 N-terminal region;0;-;2;2;2;2;2;0;9_nucl
+4EDU;The MBT repeats of human SCML2 in a complex with histone H2A peptide;1;sex comb on midleg-like protein 2;0;0;1;0;0;0;1_mon_h2a_prot
+4ZBJ;UBN1 peptide bound to H3.3/H4/Asf1;2;ubinuclein-1;1;1;0;0;0;0;2_di_h3h4_prot
+2RVQ;Solution structure of the isolated histone H2A-H2B heterodimer;0;-;0;0;1;1;0;0;2_di_h2ah2b
+3REH;2.5 Angstrom Crystal Structure of the Nucleosome Core Particle Assembled with a 145 bp Alpha-Satellite DNA (NCP145);0;-;2;2;2;2;2;0;9_nucl
+5F99;X-ray Structure of the MMTV-A Nucleosome Core Particle;0;-;2;2;2;2;2;0;9_nucl
+3W97;Crystal Structure of Human Nucleosome Core Particle lacking H2B N-terminal region;0;-;2;2;2;2;2;0;9_nucl
+5GT3;Crystal structure of nucleosome particle in the presence of human testis-specific histone variant, hTh2b;0;-;2;2;2;2;2;0;9_nucl
+4M6B;Crystal structure of yeast Swr1-Z domain in complex with H2A.Z-H2B dimer;2;helicase swr1;0;0;0;2;0;0;1_mon_h2b_prot
+4Z2M;Crystal structure of human SPT16 Mid-AID/H3-H4 tetramer FACT Histone complex;1;fact complex subunit spt16;2;2;0;0;0;0;4_tetr_h3h4_prot
+5NL0;Crystal structure of a 197-bp palindromic 601L nucleosome in complex with linker histone H1;0;-;3;3;3;3;4;1;9_nucl
+3AFA;The human nucleosome structure;0;-;2;2;2;2;2;0;9_nucl
+3MVD;Crystal structure of the chromatin factor RCC1 in complex with the nucleosome core particle;2;regulator of chromosome condensation;2;2;2;2;2;0;9_nucl_prot
+6BUZ;Cryo-EM structure of CENP-A nucleosome in complex with kinetochore protein CENP-N;1;maltose-binding periplasmic protein, centromere protein n chimera;2;2;2;2;2;0;9_nucl_prot
+5ONG;X-Ray crystal structure of a nucleosome core particle with its DNA site-specifically crosslinked to the histone octamer;0;-;2;2;2;2;2;0;9_nucl
+6IRO;the crosslinked complex of ISWI-nucleosome in the ADP-bound state;1;iswi chromatin-remodeling complex atpase isw1;2;2;2;2;2;0;9_nucl_prot
+5X7X;The crystal structure of the nucleosome containing H3.3 at 2.18 angstrom resolution;0;-;2;2;2;2;2;0;9_nucl
+3C1C;The effect of H3 K79 dimethylation and H4 K20 trimethylation on nucleosome and chromatin structure;0;-;2;2;2;2;2;0;9_nucl
+2CV5;Crystal structure of human nucleosome core particle;0;-;2;2;2;2;2;0;9_nucl
+5AVB;human nucleosome core particle;0;-;2;2;2;2;2;0;9_nucl
+3KWQ;Structural characterization of H3K56Q nucleosomes and nucleosomal arrays;0;-;2;2;2;2;2;0;9_nucl
+5GTC;Crystal structure of complex between DMAP-SH conjugated with a Kaposi's sarcoma herpesvirus LANA peptide (5-15) and nucleosome core particle;1;lana peptide;2;2;2;2;2;0;9_nucl_prot
+5O9G;Structure of nucleosome-Chd1 complex;1;chromo domain-containing protein 1;2;2;2;2;2;0;9_nucl_prot
+5CPK;Nucleosome containing methylated Sat2L DNA;0;-;2;2;2;2;2;0;9_nucl
+6A7U;Crystal structure of histone H2A.Bbd-H2B dimer;0;-;0;0;0;1;0;0;1_mon_h2b
+3C1B;The effect of H3 K79 dimethylation and H4 K20 trimethylation on nucleosome and chromatin structure;0;-;2;2;2;2;2;0;9_nucl
+5AV6;human nucleosome core particle;0;-;2;2;2;2;2;0;9_nucl
+3LEL;Structural Insight into the Sequence-Dependence of Nucleosome Positioning;0;-;4;4;4;4;4;0;9_nucl
+3WTP;Crystal Structure of the heterotypic nucleosome containing human CENP-A and H3.3;0;-;2;2;2;2;2;0;9_nucl
+4Z66;Nucleosome disassembly by RSC and SWI/SNF is enhanced by H3 acetylation near the nucleosome dyad axis;0;-;2;2;2;2;2;0;9_nucl
+6J4Y;RNA polymerase II elongation complex bound with Elf1 and Spt4/5, stalled at SHL(-1) of the nucleosome (+1B);15;dna-directed rna polymerase subunit;2;2;2;2;2;0;9_nucl_prot
+2ARO;Crystal Structure Of The Native Histone Octamer To 2.1 Angstrom Resolution, Crystalised In The Presence Of S-Nitrosoglutathione;0;-;2;2;2;2;0;0;8_oct
+5C3I;Crystal structure of the quaternary complex of histone H3-H4 heterodimer with chaperone ASF1 and the replicative helicase subunit MCM2;12;dna replication licensing factor mcm2,mcm2;6;6;0;0;0;0;4_tetr_h3h4_prot
+3AZM;Crystal Structure of Human Nucleosome Core Particle Containing H4K79Q mutation;0;-;2;2;2;2;2;0;9_nucl
+3AYW;Crystal Structure of Human Nucleosome Core Particle Containing H3K56Q mutation;0;-;2;2;2;2;2;0;9_nucl
+6J51;RNA polymerase II elongation complex bound with Spt4/5 and foreign DNA, stalled at SHL(-1) of the nucleosome, weak Elf1 (+1 position);15;dna-directed rna polymerase subunit;2;2;2;2;4;0;9_nucl_prot
+5B2J;Human nucleosome containing CpG methylated DNA;0;-;2;2;2;2;2;0;9_nucl
+5Y0D;Crystal Structure of the human nucleosome containing the H2B E76K mutant;0;-;2;2;2;2;2;0;9_nucl
+2FJ7;Crystal structure of Nucleosome Core Particle Containing a Poly (dA.dT) Sequence Element;0;-;2;2;2;2;2;0;9_nucl
+6HTS;Cryo-EM structure of the human INO80 complex bound to nucleosome;9;ino80 complex subunit b;2;2;2;2;2;0;9_nucl_prot
+4J8V;X-ray structure of NCP145 with bound chlorido(eta-6-p-cymene)(N-phenyl-2-pyridinecarbothioamide)ruthenium(II);0;-;2;2;2;2;2;0;9_nucl
+3LZ1;Crystal Structure of Nucleosome Core Particle Composed of the Widom 601 DNA Sequence (orientation 2);0;-;2;2;2;2;2;0;9_nucl
+5CP6;Nucleosome Core Particle with Adducts from the Anticancer Compound, [(eta6-5,8,9,10-tetrahydroanthracene)Ru(ethylenediamine)Cl][PF6];0;-;2;2;2;2;2;0;9_nucl
+3AZI;Crystal Structure of Human Nucleosome Core Particle Containing H4K31Q mutation;0;-;2;2;2;2;2;0;9_nucl
+6FQ8;Class 3 : translocated nucleosome;0;-;2;2;2;2;2;0;9_nucl
+5AV5;human nucleosome core particle;0;-;2;2;2;2;2;0;9_nucl
+6A5O;RNA polymerase II elongation complex stalled at SHL(-6) of the nucleosome;12;dna-directed rna polymerase subunit;2;2;2;2;2;0;9_nucl_prot
+6AE8;Structure insight into histone chaperone Chz1-mediated H2A.Z recognition and replacement;2;histone h2a.z-specific chaperone chz1;0;0;0;2;0;0;1_mon_h2b_prot
+6FML;CryoEM Structure INO80core Nucleosome complex;10;actin related protein 5;2;2;2;2;2;0;9_nucl_prot
+6A5P;RNA polymerase II elongation complex stalled at SHL(-5) of the nucleosome;12;dna-directed rna polymerase subunit;2;2;2;2;2;0;9_nucl_prot
+6A5T;RNA polymerase II elongation complex stalled at SHL(-1) of the nucleosome;12;dna-directed rna polymerase subunit;2;2;2;2;2;0;9_nucl_prot
+3KUY;DNA Stretching in the Nucleosome Facilitates Alkylation by an Intercalating Antitumor Agent;0;-;2;2;2;2;2;0;9_nucl
+4CAY;Crystal structure of a human Anp32e-H2A.Z-H2B complex;1;acidic leucine-rich nuclear phosphoprotein 32 family member e;0;0;1;1;0;0;2_di_h2ah2b_prot
+6BIZ;HLA-DRB1 in complex with citrullinated Histone 2B peptide;2;hla class ii dr-beta (hla-dr b);0;0;0;1;0;0;1_mon_h2b_prot
+5B31;The crystal structure of the heterotypic H2AZ/H2A nucleosome with H3.1.;0;-;2;2;2;2;2;0;9_nucl
+6J4Z;RNA polymerase II elongation complex bound with Spt4/5 and foreign DNA, stalled at SHL(-1) of the nucleosome;14;dna-directed rna polymerase subunit;2;2;2;2;4;0;9_nucl_prot
+1KX3;X-Ray Structure of the Nucleosome Core Particle, NCP146, at 2.0 A Resolution;0;-;2;2;2;2;2;0;9_nucl
+5BSA;Structure of histone H3/H4 in complex with Spt2;2;protein spt2 homolog;2;2;0;0;0;0;4_tetr_h3h4_prot
+5OXV;Structure of the 4_601_157 tetranucleosome (C2 form);0;-;4;4;4;4;2;0;9_nucl
+5XM1;The mouse nucleosome structure containing H2A, H2B type3-A, H3mm7, and H4;0;-;2;2;2;2;2;0;9_nucl
+5OMX;X-ray Structure of the H2A-N38C Nucleosome Core Particle;0;-;2;2;2;2;2;0;9_nucl
+6IRM;The crosslinked complex of ISWI-nucleosome in the ADP.BeF-bound state;2;iswi chromatin-remodeling complex atpase isw1;2;2;2;2;1;0;9_nucl_prot
+3MGS;Binding of Cesium ions to the Nucleosome Core particle;0;-;2;2;2;2;2;0;9_nucl
+4CSR;High resolution crystal structure of the histone fold dimer (NF-YB)-(NF-YC);2;nuclear transcription factor y subunit gamma;0;0;0;0;0;0;0_unknown_prot
+3AZN;Crystal Structure of Human Nucleosome Core Particle Containing H4K91Q mutation;0;-;2;2;2;2;2;0;9_nucl
+4H9O;Complex structure 2 of DAXX/H3.3(sub5,G90M)/H4;1;death domain-associated protein 6;1;1;0;0;0;0;2_di_h3h4_prot
+4XUJ;Nucleosome core particle containing adducts from treatment with a thiomorpholine-substituted [(eta-6-p-cymene)Ru(3-hydroxy-2-pyridone)Cl] compound;0;-;2;2;2;2;2;0;9_nucl
+1P3A;Crystallographic Studies of Nucleosome Core Particles containing Histone 'Sin' Mutants;0;-;2;2;2;2;2;0;9_nucl
+6FQ6;Class 2 : distorted nucleosome;0;-;2;2;2;2;2;0;9_nucl
+5XF5;Nucleosome core particle with an adduct of a binuclear RAPTA (Ru-arene-phosphaadamantane) compound having a 1,2-diphenylethylenediamine linker (R,S-configuration);0;-;2;2;2;2;2;0;9_nucl
+5BS7;Structure of histone H3/H4 in complex with Spt2;2;protein spt2 homolog;2;2;0;0;0;0;4_tetr_h3h4_prot
+5OY7;Structure of the 4_601_157 tetranucleosome (P1 form);0;-;8;8;8;8;2;0;9_nucl
+2F8N;2.9 Angstrom X-ray structure of hybrid macroH2A nucleosomes;1;core histone macro-h2a.1;2;2;1;2;2;0;9_nucl_prot
+5B24;The crystal structure of the nucleosome containing cyclobutane pyrimidine dimer;0;-;2;2;2;2;2;0;9_nucl
+1EQZ;X-RAY STRUCTURE OF THE NUCLEOSOME CORE PARTICLE AT 2.5 A RESOLUTION;0;-;2;2;2;2;2;0;9_nucl
+5X0X;Complex of Snf2-Nucleosome complex with Snf2 bound to position +6 of the nucleosome;1;transcription regulatory protein snf2;2;2;2;2;2;0;9_nucl_prot
+5AV8;human nucleosome core particle;0;-;2;2;2;2;2;0;9_nucl
+5B32;The crystal structure of the heterotypic H2AZ/H2A nucleosome with H3.3.;0;-;2;2;2;2;2;0;9_nucl
+5Z23;Crystal structure of the nucleosome containing a chimeric histone H3/CENP-A CATD;0;-;2;2;2;2;2;0;9_nucl
+1BFM;HISTONE B FROM METHANOTHERMUS FERVIDUS;0;-;0;0;0;2;0;0;1_mon_h2b
+6GEN;Chromatin remodeller-nucleosome complex at 4.5 A resolution.;10;actin-like protein arp6;2;2;2;2;2;0;9_nucl_prot
+5Z3L;Structure of Snf2-nucleosome complex in apo state;1;transcription regulatory protein snf2;2;2;2;2;2;0;9_nucl_prot
+4WZS;Crystal structure of the Mot1 N-terminal domain in complex with TBP and NC2 bound to a promoter DNA fragment;4;ecu04_1440 protein;0;0;0;0;2;0;0_unknown_prot
+3W99;Crystal Structure of Human Nucleosome Core Particle lacking H4 N-terminal region;0;-;2;2;2;2;2;0;9_nucl
+3AZL;Crystal Structure of Human Nucleosome Core Particle Containing H4K77Q mutation;0;-;2;2;2;2;2;0;9_nucl
+3REJ;2.55 Angstrom Crystal Structure of the Nucleosome Core Particle Assembled with a 146 bp Alpha-Satellite DNA (NCP146b);0;-;2;2;2;2;2;0;9_nucl
+3WKJ;The nucleosome containing human TSH2B;0;-;2;2;2;2;2;0;9_nucl
+6R25;Structure of LSD2/NPAC-linker/nucleosome core particle complex: Class 3;4;h4;3;0;2;2;2;0;1_mon_h3_prot
+6NQA;Active state Dot1L bound to the H2B-Ubiquitinated nucleosome, 1-to-1 complex;1;ubiquitin;3;2;2;2;2;0;9_nucl_prot
+5B0Y;Crystal structure of the nucleosome containing histone H3 with the crotonylated lysine 122;0;-;2;2;2;2;2;0;9_nucl
+6J50;RNA polymerase II elongation complex bound with Spt4/5 and foreign DNA, stalled at SHL(-1) of the nucleosome (tilted conformation);14;dna-directed rna polymerase subunit;2;2;2;2;4;0;9_nucl_prot
+3B6G;Nucleosome core particle treated with oxaliplatin;0;-;2;2;2;2;2;0;9_nucl
+3REL;2.7 Angstrom Crystal Structure of the Nucleosome Core Particle Assembled with a 146 bp Alpha-Satellite DNA (NCP146b) Derivatized with Triamminechloroplatinum(II) Chloride;0;-;2;2;2;2;2;0;9_nucl
+1HQ3;CRYSTAL STRUCTURE OF THE HISTONE-CORE-OCTAMER IN KCL/PHOSPHATE;0;-;2;2;2;2;0;0;8_oct
+1AOI;COMPLEX BETWEEN NUCLEOSOME CORE PARTICLE (H3,H4,H2A,H2B) AND 146 BP LONG DNA FRAGMENT;0;-;2;2;2;2;2;0;9_nucl
+4LD9;Crystal structure of the N-terminally acetylated BAH domain of Sir3 bound to the nucleosome core particle;2;regulatory protein sir3;2;2;2;2;2;0;9_nucl_prot
+4KGC;Nucleosome Core Particle Containing (ETA6-P-CYMENE)-(1, 2-ETHYLENEDIAMINE)-RUTHENIUM;0;-;2;2;2;2;2;0;9_nucl
+6INQ;RNA polymerase II elongation complex stalled at SHL(-1) of the nucleosome, with foreign DNA (+1 position);12;dna-directed rna polymerase subunit;2;2;2;2;4;0;9_nucl_prot
+4H9N;Complex structure 1 of DAXX/H3.3(sub5)/H4;1;death domain-associated protein 6;1;1;0;0;0;0;2_di_h3h4_prot
+2HUE;Structure of the H3-H4 chaperone Asf1 bound to histones H3 and H4;1;anti-silencing protein 1;1;1;0;0;0;0;2_di_h3h4_prot
+4R8P;Crystal structure of the Ring1B/Bmi1/UbcH5c PRC1 ubiquitylation module bound to the nucleosome core particle;4;e3 ubiquitin-protein ligase ring2, ubiquitin-conjugating enzyme e2 d3;2;2;2;2;2;0;9_nucl_prot
+6ESF;Nucleosome : Class 1;0;-;2;2;2;2;2;0;9_nucl
+1S32;Molecular Recognition of the Nucleosomal 'Supergroove';0;-;2;2;2;2;2;0;9_nucl
+6FQ5;Class 1 : canonical nucleosome;0;-;2;2;2;2;2;0;9_nucl
+6NOG;Poised-state Dot1L bound to the H2B-Ubiquitinated nucleosome;1;ubiquitin;3;2;2;2;2;0;9_nucl_prot
+4KUD;Crystal structure of N-terminal acetylated Sir3 BAH domain D205N mutant in complex with yeast nucleosome core particle;2;regulatory protein sir3;2;2;2;2;2;0;9_nucl_prot
+4J8X;X-ray structure of NCP145 with bound chlorido(eta-6-p-cymene)(N-fluorophenyl-2-pyridinecarbothioamide)ruthenium(II);0;-;2;2;2;2;2;0;9_nucl
+6NJ9;Active state Dot1L bound to the H2B-Ubiquitinated nucleosome, 2-to-1 complex;1;ubiquitin;3;2;2;2;2;0;9_nucl_prot
+6A5U;RNA polymerase II elongation complex stalled at SHL(-1) of the nucleosome, with foreign DNA, tilt conformation;12;dna-directed rna polymerase subunit;2;2;2;2;4;0;9_nucl_prot
+1P3L;Crystallographic Studies of Nucleosome Core Particles containing Histone 'Sin' Mutants;0;-;2;2;2;2;2;0;9_nucl
+3TU4;Crystal structure of the Sir3 BAH domain in complex with a nucleosome core particle.;2;regulatory protein sir3;2;2;2;2;2;0;9_nucl_prot
+4YM6;Crystal structure of the human nucleosome containing 6-4PP (outside);0;-;2;2;2;2;2;0;9_nucl
+5AY8;Crystal structure of human nucleosome containing H3.Y;0;-;2;2;2;2;2;0;9_nucl
+5Z3T;Structure of Snf2-nucleosome complex in ADP BeFx state;1;transcription regulatory protein snf2;2;2;2;2;2;0;9_nucl_prot
+3X1U;Crystal structure of nucleosome core particle in the presence of histone variants involved in reprogramming;0;-;2;2;2;2;2;0;9_nucl
+4WNN;SPT16-H2A-H2B FACT HISTONE Complex;1;spt16;0;0;4;4;0;0;2_di_h2ah2b_prot
+5AVC;human nucleosome core particle;0;-;2;2;2;2;2;0;9_nucl
+6R1T;Structure of LSD2/NPAC-linker/nucleosome core particle complex: Class 1, free nuclesome;0;-;2;0;4;2;2;0;1_mon_h3
+3X1T;Crystal structure of nucleosome core particle consisting of mouse testis specific histone variants H2aa and H2ba;0;-;2;2;2;2;2;0;9_nucl
+5XF4;Nucleosome core particle with an adduct of a binuclear RAPTA (Ru-arene-phosphaadamantane) compound having a 1,2-diphenylethylenediamine linker (S,S-configuration);0;-;2;2;2;2;2;0;9_nucl
+1U35;Crystal structure of the nucleosome core particle containing the histone domain of macroH2A;4;h2a histone family;2;0;0;2;2;0;1_mon_h3_prot
+5Z3O;Structure of Snf2-nucleosome complex in ADP state;1;transcription regulatory protein snf2;2;2;2;2;2;0;9_nucl_prot
+1P3B;Crystallographic Studies of Nucleosome Core Particles containing Histone 'Sin' Mutants;0;-;2;2;2;2;2;0;9_nucl
+4H9Q;Complex structure 4 of DAXX(E225A)/H3.3(sub5)/H4;1;death domain-associated protein 6;1;1;0;0;0;0;2_di_h3h4_prot
+4EO5;Yeast Asf1 bound to H3/H4G94P mutant;1;histone chaperone asf1;1;1;0;0;0;0;2_di_h3h4_prot
+2NZD;Nucleosome core particle containing 145 bp of DNA;0;-;2;2;2;2;2;0;9_nucl
+4UUZ;MCM2-histone complex;1;dna replication licensing factor mcm2;1;1;0;0;0;0;2_di_h3h4_prot
+2HIO;HISTONE OCTAMER (CHICKEN), CHROMOSOMAL PROTEIN;0;-;1;1;1;1;0;0;8_oct
+4G91;CCAAT-binding complex from Aspergillus nidulans;3;hape;0;0;0;0;0;0;0_unknown_prot
+5MLU;Crystal structure of the PFV GAG CBS bound to a mononucleosome;1;pfv gag peptide;2;2;2;2;2;0;9_nucl_prot
+6I84;Structure of transcribing RNA polymerase II-nucleosome complex;12;dna-directed rna polymerase ii subunit rpb3;2;2;2;2;2;0;9_nucl_prot
+6IRN;The complex of ISWI-nucleosome in the ADP.BeF-bound state;1;iswi chromatin-remodeling complex atpase isw1;2;2;2;2;2;0;9_nucl_prot
+5B0Z;The crystal structure of the nucleosome containing H3.2, at 1.98 A resolution;0;-;2;2;2;2;2;0;9_nucl
+5KDM;Crystal structure of EBV tegument protein BNRF1 in complex with histone chaperone DAXX and histones H3.3-H4;2;major tegument protein;1;1;0;0;0;0;2_di_h3h4_prot
+6R1U;Structure of LSD2/NPAC-linker/nucleosome core particle complex: Class 2;2;putative oxidoreductase glyr1;3;2;2;2;2;0;9_nucl_prot
+4H9R;Complex structure 5 of DAXX(E225A)/H3.3(sub5,G90A)/H4;1;death domain-associated protein 6;1;1;0;0;0;0;2_di_h3h4_prot
+5JRG;Crystal structure of the nucleosome containing the DNA with tetrahydrofuran (THF);0;-;2;2;2;2;2;0;9_nucl
+5B33;The crystal structure of the H2AZ nucleosome with H3.3.;0;-;2;2;2;2;2;0;9_nucl
+6FTX;Structure of the chromatin remodelling enzyme Chd1 bound to a ubiquitinylated nucleosome;3;chromatin-remodeling atpase;2;2;2;2;2;0;9_nucl_prot
+3MGQ;Binding of Nickel ions to the Nucleosome Core Particle;0;-;2;2;2;2;2;0;9_nucl
+6NN6;Structure of Dot1L-H2BK120ub nucleosome complex;1;ubiquitin;3;2;2;2;2;0;9_nucl_prot
+1ID3;CRYSTAL STRUCTURE OF THE YEAST NUCLEOSOME CORE PARTICLE REVEALS FUNDAMENTAL DIFFERENCES IN INTER-NUCLEOSOME INTERACTIONS;0;-;2;2;2;2;2;0;9_nucl
+3R45;Structure of a CENP-A-Histone H4 Heterodimer in complex with chaperone HJURP;1;holliday junction recognition protein;1;1;0;0;0;0;2_di_h3h4_prot
+3KSY;Crystal structure of the Histone domain, DH-PH unit, and catalytic unit of the Ras activator Son of Sevenless (SOS);1;son of sevenless homolog 1;0;0;0;0;0;0;0_unknown_prot
+5B2I;Human nucleosome containing CpG unmethylated DNA;0;-;2;2;2;2;2;0;9_nucl
+4JJN;Crystal structure of heterochromatin protein Sir3 in complex with a silenced yeast nucleosome;2;regulatory protein sir3;2;2;2;2;2;0;9_nucl_prot
+3MGP;Binding of Cobalt ions to the Nucleosome Core Particle;0;-;2;2;2;2;2;0;9_nucl
+5DNM;Nucleosome core particle containing adducts of ruthenium(II)-toluene PTA complex;0;-;2;2;2;2;2;0;9_nucl
+1P3G;Crystallographic Studies of Nucleosome Core Particles containing Histone 'Sin' Mutants;0;-;2;2;2;2;2;0;9_nucl
+1M18;LIGAND BINDING ALTERS THE STRUCTURE AND DYNAMICS OF NUCLEOSOMAL DNA;0;-;2;2;2;2;2;0;9_nucl
+5BO0;Crystal structure of Human MCM2 HBD and ASF1b chaperoning a histone H3.2-H4 dimer;2;histone chaperone asf1b;1;1;0;0;0;0;2_di_h3h4_prot
+5BNX;Crystal structure of Human MCM2 HBD and ASF1b chaperoning a histone H3.3-H4 dimer;2;histone chaperone asf1b;1;1;0;0;0;0;2_di_h3h4_prot
+3AZK;Crystal Structure of Human Nucleosome Core Particle Containing H4K59Q mutation;0;-;2;2;2;2;2;0;9_nucl
+6IR9;RNA polymerase II elongation complex bound with Elf1 and Spt4/5, stalled at SHL(-1) of the nucleosome;15;dna-directed rna polymerase subunit;2;2;2;2;2;0;9_nucl_prot
+1TZY;Crystal Structure of the Core-Histone Octamer to 1.90 Angstrom Resolution;0;-;2;2;2;2;0;0;8_oct
+6IY3;Structure of Snf2-MMTV-A nucleosome complex at shl-2 in ADP state;1;transcription regulatory protein snf2;2;2;2;2;2;0;9_nucl_prot
+5FUG;Crystal structure of a human YL1-H2A.Z-H2B complex;4;vacuolar protein sorting-associated protein 72 homolog;0;0;4;4;0;0;2_di_h2ah2b_prot
+5B1M;The mouse nucleosome structure containing H3.1;0;-;2;2;2;2;2;0;9_nucl
+3AZH;Crystal Structure of Human Nucleosome Core Particle Containing H3K122Q mutation;0;-;2;2;2;2;2;0;9_nucl
+3IBX;Crystal structure of F47Y variant of TenA (HP1287) from Helicobacter pylori;2;putative thiaminase ii;0;0;0;0;0;0;0_unknown_prot
+2RD3;Crystal structure of TenA homologue (HP1287) from Helicobacter pylori;2;transcriptional regulator;0;0;0;0;0;0;0_unknown_prot
+4XYI;Mis16 with H4 peptide;1;kinetochore protein mis16;0;1;0;0;0;0;1_mon_h4_prot
+2NQB;Drosophila Nucleosome Structure;0;-;2;2;2;2;2;0;9_nucl
+3X1S;Crystal structure of the nucleosome core particle;0;-;2;2;2;2;2;0;9_nucl
+1M1A;LIGAND BINDING ALTERS THE STRUCTURE AND DYNAMICS OF NUCLEOSOMAL DNA;0;-;2;2;2;2;2;0;9_nucl
+1P3K;Crystallographic Studies of Nucleosome Core Particles containing Histone 'Sin' Mutants;0;-;2;2;2;2;2;0;9_nucl
+2XQL;Fitting of the H2A-H2B histones in the electron microscopy map of the complex Nucleoplasmin:H2A-H2B histones (1:5).;0;-;0;0;5;5;0;0;2_di_h2ah2b
+4KHA;Structural basis of histone H2A-H2B recognition by the essential chaperone FACT;0;-;0;0;1;1;0;0;2_di_h2ah2b
+6IY2;Structure of Snf2-MMTV-A nucleosome complex at shl2 in ADP state;1;transcription regulatory protein snf2;2;2;2;2;2;0;9_nucl_prot
+5XF3;Nucleosome core particle with an adduct of a binuclear RAPTA (Ru-arene-phosphaadamantane) compound having a 1,2-diphenylethylenediamine linker (R,R-configuration);0;-;2;2;2;2;2;0;9_nucl
+1KX4;X-Ray Structure of the Nucleosome Core Particle, NCP146b, at 2.6 A Resolution;0;-;2;2;2;2;2;0;9_nucl
+6ESG;Nucleosome breathing : Class 2;0;-;2;2;2;2;2;0;9_nucl
+5Y0C;Crystal Structure of the human nucleosome at 2.09 angstrom resolution;0;-;2;2;2;2;2;0;9_nucl
+3WAA;The nucleosome containing human H2A.Z.2;0;-;2;2;2;2;2;0;9_nucl
+4Z5T;The nucleosome containing human H3.5;0;-;2;2;2;2;2;0;9_nucl
+5WCU;Crystal structure of 167 bp nucleosome bound to the globular domain of linker histone H5;0;-;4;4;4;4;4;2;9_nucl
+3MGR;Binding of Rubidium ions to the Nucleosome Core Particle;0;-;2;2;2;2;2;0;9_nucl
+3B6F;Nucleosome core particle treated with cisplatin;0;-;2;2;2;2;2;0;9_nucl
+4QLC;Crystal structure of chromatosome at 3.5 angstrom resolution;0;-;2;2;2;2;2;1;9_nucl
+5CHL;Structural basis of H2A.Z recognition by YL1 histone chaperone component of SRCAP/SWR1 chromatin remodeling complex;1;vacuolar protein sorting-associated protein 72 homolog;0;0;1;0;0;0;1_mon_h2a_prot
+2YFW;Heterotetramer structure of Kluyveromyces lactis Cse4,H4;0;-;4;4;0;0;0;0;4_tetr_h3h4
+6A5R;RNA polymerase II elongation complex stalled at SHL(-2) of the nucleosome;12;dna-directed rna polymerase subunit;2;2;2;2;2;0;9_nucl_prot
+3A6N;The nucleosome containing a testis-specific histone variant, human H3T;0;-;2;2;2;2;2;0;9_nucl
+4NFT;Crystal structure of human lnkH2B-h2A.Z-Anp32e;2;acidic leucine-rich nuclear phosphoprotein 32 family member e;0;0;0;4;0;0;1_mon_h2b_prot
+5ONW;X-Ray crystal structure of a nucleosome core particle with its DNA site-specifically crosslinked to the histone octamer and the two H2A/H2B dimers crosslinked via H2A N38C;0;-;2;2;2;2;2;0;9_nucl
+1A7W;CRYSTAL STRUCTURE OF THE HISTONE HMFB FROM METHANOTHERMUS FERVIDUS;0;-;0;0;0;0;0;0;0_unknown
+5GSU;Crystal structure of nucleosome core particle consisting of human testis-specific histone variants, Th2A and Th2B;0;-;2;2;2;2;2;0;9_nucl
+4XZQ;Nucleosome disassembly by RSC and SWI/SNF is enhanced by H3 acetylation near the nucleosome dyad axis;0;-;2;2;2;2;2;0;9_nucl
+2PYO;Drosophila nucleosome core;0;-;2;2;2;2;2;0;9_nucl
+4YS3;Nucleosome disassembly by RSC and SWI/SNF is enhanced by H3 acetylation near the nucleosome dyad axis;0;-;2;2;2;2;2;0;9_nucl
+1P34;Crystallographic Studies of Nucleosome Core Particles containing Histone 'Sin' Mutants;0;-;2;2;2;2;2;0;9_nucl
+4HGA;Structure of the variant histone H3.3-H4 heterodimer in complex with its chaperone DAXX;1;death domain-associated protein 6;1;1;0;0;0;0;2_di_h3h4_prot
+3AZJ;Crystal Structure of Human Nucleosome Core Particle Containing H4K44Q mutation;0;-;2;2;2;2;2;0;9_nucl
+2JSS;NMR structure of chaperone Chz1 complexed with histone H2A.Z-H2B;1;uncharacterized protein yer030w;0;0;0;1;0;0;1_mon_h2b_prot
+4WU9;Structure of cisPtNAP-NCP145;0;-;2;2;2;2;2;0;9_nucl
