@@ -39,6 +39,6 @@
       });
     });
   </script>
-  <div id="viewport" style="width:500px; height:500px;"></div>
+  <div id="viewport" style="width:1024px; height:800px;"></div>
 </body>
 </html>
