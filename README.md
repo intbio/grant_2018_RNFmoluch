@@ -9,6 +9,7 @@
 ## Планы
 
 - [На первый год](plan_results1year.pdf)
+- [На воторой год](https://www.dropbox.com/s/wndw7r5d07jlxmk/zadachi-2019-2020.pdf?dl=0)
 - [На все время](plan-zadach.pdf)
 
 ## Задачи и ссылки
