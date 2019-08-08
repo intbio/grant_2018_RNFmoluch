@@ -18,7 +18,7 @@
 Построить модели конформационных перестроек димеров H3-H4 в нуклеосомах необходимых для взаимодействий с ремоделерами SNF2h и SWI/SNF.  
 
 #### Релевантные репозитории
-- https://github.com/intbio/2019_nucl_past_ak - AK структурирует данные по пластичности нуклеосом
+- https://github.com/intbio/2019_nucl_plast_ak - AK структурирует данные по пластичности нуклеосом
 - https://github.com/intbio/2019_nucl_plast_ga - Гриша ведет работу
 - https://github.com/intbio/nucl_gmx - модели нуклеосом
 - https://github.com/intbio/2018_h3-h4_dyn - динамика димеров, в том числе со сшивками.
