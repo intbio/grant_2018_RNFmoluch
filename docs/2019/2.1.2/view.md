@@ -30,7 +30,7 @@
            "sele": "nucleic", "color": 0xd6d6d6});
            
         nucl.addRepresentation('tube', {
-           "sele": ":V", "color": 0xffffff,"aspectRatio":aspectRatio, "radius":0.5,"radiusSegments":1,"capped":0 });
+           "sele": ":K", "color": 0xffffff,"aspectRatio":aspectRatio, "radius":0.5,"radiusSegments":1,"capped":0 });
         nucl.addRepresentation('tube', {
            "sele": ":L", "color": 0x1f77b4,"aspectRatio":aspectRatio, "radius":0.5,"radiusSegments":1,"capped":0 });
         nucl.addRepresentation('tube', {
