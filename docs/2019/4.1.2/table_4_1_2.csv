@@ -1,4 +1,4 @@
-HGNC Symbol,amino_acid_change,chromatin_class,cancer,number_of_patient_with_mutation,proportion_of_patient_with_mutation
+HGNC код ,Аминокислотная замена,Класс,Вид онкологического,Число пациентов,Доля пациентов с мутацией
 TP53,R273C,"TF, Replication associated, DNA repair",Brain Lower Grade Glioma,85,0.11
 TP53,G245S,"TF, Replication associated, DNA repair",Colon Adenocarcinoma,3,0.1
 TP53,R273C,"TF, Replication associated, DNA repair",Colon Adenocarcinoma,4,0.14
