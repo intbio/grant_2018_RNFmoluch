@@ -31,7 +31,7 @@
         NGL.autoLoad("sys_md_skip20.xtc").then(function (frames) {
           nucl.addTrajectory(frames);
           var traj = nucl.trajList[0].trajectory;
-          var player = new NGL.TrajectoryPlayer( traj,{step: 1, timeout: 20, direction : "bounce"});
+          var player = new NGL.TrajectoryPlayer( traj,{step: 1, timeout: 20, direction : "bounce",interpolateStep:3});
           player.play();
         });  
         nucl.autoView();
