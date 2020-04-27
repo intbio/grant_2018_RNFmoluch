@@ -38,7 +38,7 @@
       });
     });
   </script>
-  <div id="viewport0" style="width:500px; height:500px;"></div>
+  <div id="viewport0" style="width:500px; height:500px; border: thin solid black"></div>
   
   
   <h3> Вектор 2</h3>
@@ -70,7 +70,7 @@
       });
     });
   </script>
-  <div id="viewport1" style="width:500px; height:500px;"></div>
+  <div id="viewport1" style="width:500px; height:500px; border: thin solid black"></div>
   
   <h3> Вектор 4</h3>
   <script>
@@ -101,6 +101,6 @@
       });
     });
   </script>
-  <div id="viewport2" style="width:500px; height:500px;"></div>
+  <div id="viewport2" style="width:500px; height:500px; border: thin solid black"></div>
 </body>
 </html>
