@@ -13,33 +13,34 @@
     document.addEventListener("DOMContentLoaded", function () {
       var stage = new NGL.Stage("viewport",{ backgroundColor:"#FFFFFF" });
       stage.setSpin(true);
-      stage.loadFile("0_sum.mrc").then(function (o) {
-        o.addRepresentation("surface", {
-          colorScheme: "uniform",
-          colorValue: 0xef3e3e,
-          isolevel: 20,
-          isolevelType: 'value',
-          opacity:0.4
-        })
-        o.autoView()
-      });
+      //stage.loadFile("0_sum.mrc").then(function (o) {
+      //  o.addRepresentation("surface", {
+      //    colorScheme: "uniform",
+      //    colorValue: 0xef3e3e,
+      //    isolevel: 20,
+      //    isolevelType: 'value',
+      //    opacity:0.4
+      //  })
+      //  o.autoView()
+      //});
       
-      stage.loadFile("N_sum.mrc").then(function (o) {
-        o.addRepresentation("surface", {
-          colorScheme: "uniform",
-          colorValue: 0x3e5def,
-          isolevel: 20,
-          isolevelType: 'value',
-          opacity:0.4
-        })
-        o.autoView()
-      });
+     // stage.loadFile("N_sum.mrc").then(function (o) {
+     //   o.addRepresentation("surface", {
+     //     colorScheme: "uniform",
+     //     colorValue: 0x3e5def,
+     //     isolevel: 20,
+     //     isolevelType: 'value',
+     //     opacity:0.4
+     //   })
+     //   o.autoView()
+     // });
       
       stage.loadFile("c_sum.mrc").then(function (o) {
         o.addRepresentation("surface", {
           colorScheme: "uniform",
           colorValue: 0xefea3e,
-          isolevel: 30,
+          isolevel: 20,
+          smooth: 2,
           isolevelType: 'value',
           opacity:0.4
         })
