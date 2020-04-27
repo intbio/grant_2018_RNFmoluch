@@ -31,7 +31,7 @@
         NGL.autoLoad("interp_prot+dna1.xtc").then(function (frames) {
           nucl.addTrajectory(frames);
           var traj = nucl.trajList[0].trajectory;
-          var player = new NGL.TrajectoryPlayer( traj,{step: 1, timeout: 20, direction : "bounce",interpolateType:'spline', interpolateStep:5});
+          var player = new NGL.TrajectoryPlayer( traj,{step: 1, timeout: 20, direction : "bounce"});
           player.play();
         });  
         nucl.autoView();
@@ -63,7 +63,7 @@
         NGL.autoLoad("interp_prot+dna2.xtc").then(function (frames) {
           nucl.addTrajectory(frames);
           var traj = nucl.trajList[0].trajectory;
-          var player = new NGL.TrajectoryPlayer( traj,{step: 1, timeout: 20, direction : "bounce",interpolateType:'spline', interpolateStep:5});
+          var player = new NGL.TrajectoryPlayer( traj,{step: 1, timeout: 20, direction : "bounce"});
           player.play();
         });  
         nucl.autoView();
@@ -94,7 +94,7 @@
         NGL.autoLoad("interp_prot+dna4.xtc").then(function (frames) {
           nucl.addTrajectory(frames);
           var traj = nucl.trajList[0].trajectory;
-          var player = new NGL.TrajectoryPlayer( traj,{step: 1, timeout: 20, direction : "bounce",interpolateType:'spline', interpolateStep:5});
+          var player = new NGL.TrajectoryPlayer( traj,{step: 1, timeout: 20, direction : "bounce"});
           player.play();
         });  
         nucl.autoView();
