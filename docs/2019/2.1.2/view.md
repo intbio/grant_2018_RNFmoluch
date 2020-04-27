@@ -29,7 +29,7 @@
         nucl.addRepresentation('base', {
            "sele": "nucleic", "color": 0xd6d6d6});
         nucl.addRepresentation('cartoon', {
-           "sele": ":K", "tube": 0xffffff,"aspectRatio":aspectRatio, "radius":0.5,"radiusSegments":1,"capped":0 });
+           "sele": ":V", "tube": 0xffffff,"aspectRatio":aspectRatio, "radius":0.5,"radiusSegments":1,"capped":0 });
         nucl.addRepresentation('cartoon', {
            "sele": ":L", "tube": 0x1f77b4,"aspectRatio":aspectRatio, "radius":0.5,"radiusSegments":1,"capped":0 });
         nucl.addRepresentation('cartoon', {
