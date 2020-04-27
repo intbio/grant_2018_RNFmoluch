@@ -29,27 +29,27 @@
         nucl.addRepresentation('base', {
            "sele": "nucleic", "color": 0xd6d6d6});
         nucl.addRepresentation('cartoon', {
-           "sele": ":K", "color": 0xffffff,"aspectRatio":aspectRatio, "radius":radius,"radiusSegments":1,"capped":0 });
+           "sele": ":K", "tube": 0xffffff,"aspectRatio":aspectRatio, "radius":0.5,"radiusSegments":1,"capped":0 });
         nucl.addRepresentation('cartoon', {
-           "sele": ":L", "color": 0x1f77b4,"aspectRatio":aspectRatio, "radius":radius,"radiusSegments":1,"capped":0 });
+           "sele": ":L", "tube": 0x1f77b4,"aspectRatio":aspectRatio, "radius":0.5,"radiusSegments":1,"capped":0 });
         nucl.addRepresentation('cartoon', {
-           "sele": ":M", "color": 0xff7f0e,"aspectRatio":aspectRatio, "radius":radius,"radiusSegments":1,"capped":0 });
+           "sele": ":M", "tube": 0xff7f0e,"aspectRatio":aspectRatio, "radius":0.5,"radiusSegments":1,"capped":0 });
         nucl.addRepresentation('cartoon', {
-           "sele": ":N", "color": 0x2ca02c,"aspectRatio":aspectRatio, "radius":radius,"radiusSegments":1,"capped":0 });
+           "sele": ":N", "tube": 0x2ca02c,"aspectRatio":aspectRatio, "radius":0.5,"radiusSegments":1,"capped":0 });
         nucl.addRepresentation('cartoon', {
-           "sele": ":O", "color": 0xd62728,"aspectRatio":aspectRatio, "radius":radius,"radiusSegments":1,"capped":0 });
+           "sele": ":O", "tube": 0xd62728,"aspectRatio":aspectRatio, "radius":0.5,"radiusSegments":1,"capped":0 });
         nucl.addRepresentation('cartoon', {
-           "sele": ":P", "color": 0x9467bd,"aspectRatio":aspectRatio, "radius":radius,"radiusSegments":1,"capped":0 });
+           "sele": ":P", "tube": 0x9467bd,"aspectRatio":aspectRatio, "radius":0.5,"radiusSegments":1,"capped":0 });
         nucl.addRepresentation('cartoon', {
-           "sele": ":Q", "color": 0x8c564b,"aspectRatio":aspectRatio, "radius":radius,"radiusSegments":1,"capped":0 });
+           "sele": ":Q", "tube": 0x8c564b,"aspectRatio":aspectRatio, "radius":0.5,"radiusSegments":1,"capped":0 });
         nucl.addRepresentation('cartoon', {
-           "sele": ":R", "color": 0xe377c2,"aspectRatio":aspectRatio, "radius":radius,"radiusSegments":1,"capped":0 });
+           "sele": ":R", "tube": 0xe377c2,"aspectRatio":aspectRatio, "radius":0.5,"radiusSegments":1,"capped":0 });
         nucl.addRepresentation('cartoon', {
-           "sele": ":S", "color": 0x7f7f7f,"aspectRatio":aspectRatio, "radius":radius,"radiusSegments":1,"capped":0 });
+           "sele": ":S", "tube": 0x7f7f7f,"aspectRatio":aspectRatio, "radius":0.5,"radiusSegments":1,"capped":0 });
         nucl.addRepresentation('cartoon', {
-           "sele": ":T", "color": 0xbcbd22,"aspectRatio":aspectRatio, "radius":radius,"radiusSegments":1,"capped":0 });
+           "sele": ":T", "tube": 0xbcbd22,"aspectRatio":aspectRatio, "radius":0.5,"radiusSegments":1,"capped":0 });
         nucl.addRepresentation('cartoon', {
-           "sele": ":U", "color": 0x17becf,"aspectRatio":aspectRatio, "radius":radius,"radiusSegments":1,"capped":0 });
+           "sele": ":U", "tube": 0x17becf,"aspectRatio":aspectRatio, "radius":0.5,"radiusSegments":1,"capped":0 });
 
         nucl.autoView();
       });
