@@ -34,7 +34,7 @@
       stage.loadFile("0_sum.mrc").then(function (o) {
         o.addRepresentation("surface", {
           colorScheme: "uniform",
-          colorValue: 0xef3e3e
+          colorValue: 0xef3e3e,
           isolevel: 20,
           isolevelType: 'value',
           opacity:0.4
@@ -56,7 +56,7 @@
       stage.loadFile("c_sum.mrc").then(function (o) {
         o.addRepresentation("surface", {
           colorScheme: "uniform",
-          colorValue: 0xefea3e
+          colorValue: 0xefea3e,
           isolevel: 20,
           isolevelType: 'value',
           opacity:0.4
