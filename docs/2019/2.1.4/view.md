@@ -12,25 +12,7 @@
   <script>
     document.addEventListener("DOMContentLoaded", function () {
       var stage = new NGL.Stage("viewport",{ backgroundColor:"#FFFFFF" });
-      stage.loadFile("1kx5_ntm.pdb").then(function (nucl) {
-        var aspectRatio = 2;
-        var radius = 1.5;
-
-        nucl.addRepresentation('cartoon', {
-           "sele": ":A :E", "color": 0x94b4d1,"aspectRatio":aspectRatio, "radius":radius,"radiusSegments":1,"capped":0 });
-        nucl.addRepresentation('cartoon', {
-           "sele": ":B :F", "color": 0x94d19c,"aspectRatio":aspectRatio, "radius":radius,"radiusSegments":1,"capped":0 });
-        nucl.addRepresentation('cartoon', {
-           "sele": ":C :G", "color": 0xd6d989,"aspectRatio":aspectRatio, "radius":radius,"radiusSegments":1,"capped":0 });
-        nucl.addRepresentation('cartoon', {
-           "sele": ":D :H", "color": 0xd98989,"aspectRatio":aspectRatio, "radius":radius,"radiusSegments":1,"capped":0 });
-        nucl.addRepresentation('cartoon', {
-           "sele": "nucleic", "color": 0xd6d6d6,"aspectRatio":aspectRatio, "radius":radius,"radiusSegments":1,"capped":0 });
-        nucl.addRepresentation('base', {
-           "sele": "nucleic", "color": 0xd6d6d6});
-           
-       nucl.autoView();
-      });
+  
       stage.loadFile("0_sum.mrc").then(function (o) {
         o.addRepresentation("surface", {
           colorScheme: "uniform",
@@ -57,12 +39,33 @@
         o.addRepresentation("surface", {
           colorScheme: "uniform",
           colorValue: 0xefea3e,
-          isolevel: 20,
+          isolevel: 30,
           isolevelType: 'value',
           opacity:0.4
         })
         o.autoView()
       });
+  
+      stage.loadFile("1kx5_ntm.pdb").then(function (nucl) {
+        var aspectRatio = 2;
+        var radius = 1.5;
+
+        nucl.addRepresentation('cartoon', {
+           "sele": ":A :E", "color": 0x94b4d1,"aspectRatio":aspectRatio, "radius":radius,"radiusSegments":1,"capped":0 });
+        nucl.addRepresentation('cartoon', {
+           "sele": ":B :F", "color": 0x94d19c,"aspectRatio":aspectRatio, "radius":radius,"radiusSegments":1,"capped":0 });
+        nucl.addRepresentation('cartoon', {
+           "sele": ":C :G", "color": 0xd6d989,"aspectRatio":aspectRatio, "radius":radius,"radiusSegments":1,"capped":0 });
+        nucl.addRepresentation('cartoon', {
+           "sele": ":D :H", "color": 0xd98989,"aspectRatio":aspectRatio, "radius":radius,"radiusSegments":1,"capped":0 });
+        nucl.addRepresentation('cartoon', {
+           "sele": "nucleic", "color": 0xd6d6d6,"aspectRatio":aspectRatio, "radius":radius,"radiusSegments":1,"capped":0 });
+        nucl.addRepresentation('base', {
+           "sele": "nucleic", "color": 0xd6d6d6});
+           
+       nucl.autoView();
+      });
+      
       
     });
   </script>
