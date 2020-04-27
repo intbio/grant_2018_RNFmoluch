@@ -41,7 +41,7 @@
   <div id="viewport0" style="width:500px; height:500px;"></div>
   
   
-   <h3> Вектор 2</h3>
+  <h3> Вектор 2</h3>
   <script>
     document.addEventListener("DOMContentLoaded", function () {
       var stage = new NGL.Stage("viewport1",{ backgroundColor:"#FFFFFF" });
@@ -72,7 +72,7 @@
   </script>
   <div id="viewport1" style="width:500px; height:500px;"></div>
   
-     <h3> Вектор 4</h3>
+  <h3> Вектор 4</h3>
   <script>
     document.addEventListener("DOMContentLoaded", function () {
       var stage = new NGL.Stage("viewport2",{ backgroundColor:"#FFFFFF" });
