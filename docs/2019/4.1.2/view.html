@@ -6,8 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <meta name="author" content="Derek Eder">
-    <title>Список всех белков гистонов человека</title>
-    
+    <title>Таблица 4.1.2. Потенциальные драйверные мутации в генах белков хроматина. </title>
+        
     <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/dataTables.bootstrap.css" rel="stylesheet">
@@ -16,7 +16,9 @@
   <body>
     <div class="container-fluid">
 
-      <h2>Список всех белков гистонов человека</h2>
+      <h2>Таблица 4.1.2. Потенциальные драйверные мутации в генах белков хроматина.</h2>
+        Данные отсортированы по типу онкологии, гену, доли пациентов данного типа онкологии с данной мутацией
+
 
       <div id='table-container'></div>
 
@@ -75,12 +77,12 @@
         
        
       CsvToHtmlTable.init({
-        csv_path: 'csv_files/histone_proteins.csv',
+        csv_path: 'table_4_1_2.csv',
         element: 'table-container', 
         allow_download: true,
         csv_options: {separator: ',', delimiter: '"'},
         datatables_options: {"paging": false} ,
-        custom_formatting: [[1, format_genecard_id],[2, format_ncbi_genid],[3, format_ensg_id],[4, format_enst_id],[5, format_ensp_id],[6, format_uniprot_id]]
+        //custom_formatting: [[1, format_genecard_id],[2, format_ncbi_genid],[3, format_ensg_id],[4, format_enst_id],[5, format_ensp_id],[6, format_uniprot_id]]
       });
     </script>
   </body>
