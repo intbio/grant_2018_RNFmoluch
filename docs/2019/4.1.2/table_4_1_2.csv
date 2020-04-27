@@ -1,0 +1,87 @@
+HGNC Symbol,amino_acid_change,chromatin_class,cancer,number_of_patient_with_mutation,proportion_of_patient_with_mutation
+TP53,R273C,"TF, Replication associated, DNA repair",Brain Lower Grade Glioma,85,0.11
+TP53,G245S,"TF, Replication associated, DNA repair",Colon Adenocarcinoma,3,0.1
+TP53,R273C,"TF, Replication associated, DNA repair",Colon Adenocarcinoma,4,0.14
+TP53,R175H,"TF, Replication associated, DNA repair",Colorectal Adenocarcinoma Triplets,16,0.12
+TP53,R248W,"TF, Replication associated, DNA repair",Cutaneous Squamous Cell Carcinoma,7,0.1
+EZH2,Y641N,"PTM writers, Transcription associated, TF",Diffuse Large B-cell Lymphoma,6,0.11
+YY1,T372R,"Chromatin remodelers, Transcription associated, TF, Chromatin architecture",Insulinoma,3,0.3
+TP53,Y220C,"TF, Replication associated, DNA repair",Low-Grade Gliomas,8,0.13
+TP53,R273C,"TF, Replication associated, DNA repair",Low-Grade Gliomas,8,0.13
+DAXX,C74W,"Histone chaperones, TF",Malignant Peripheral Nerve Sheath Tumor,2,0.13
+HNF1A,T425M,TF,Malignant Peripheral Nerve Sheath Tumor,2,0.13333333333333333
+POLQ,S2101N,"TF, Replication associated, DNA repair",Malignant Peripheral Nerve Sheath Tumor,2,0.13
+WWP1,W883C,"PTM writers, TF",Malignant Peripheral Nerve Sheath Tumor,2,0.13
+JAK2,V617F,"PTM writers, TF",Myeloproliferative Neoplasms,112,0.74
+PIM1,E30K,TF,Primary Central Nervous System Lymphoma,2,0.2
+ERBB2,S310F,TF,SUMMIT - Neratinib Basket Study,17,0.16
+AHCTF1,L2194V,TF,Small-Cell Lung Cancer,4,0.2
+BMI1,R18G,"PTM writers, TF",Small-Cell Lung Cancer,4,0.2
+BRCA1,S1613G,"PTM writers, TF, DNA repair",Small-Cell Lung Cancer,6,0.3
+BRDT,N410K,"PTM readers, TF",Small-Cell Lung Cancer,8,0.4
+BRWD1,Q83E,PTM readers,Small-Cell Lung Cancer,12,0.6
+CDC6,V441I,Replication associated,Small-Cell Lung Cancer,6,0.3
+CENPF,N3106K,Replication associated,Small-Cell Lung Cancer,9,0.45
+CHEK1,I471V,"Replication associated, DNA repair",Small-Cell Lung Cancer,16,0.8
+DTL,A436V,"PTM writers, Replication associated, DNA repair",Small-Cell Lung Cancer,16,0.8
+E4F1,R167H,"TF, Replication associated",Small-Cell Lung Cancer,16,0.8
+EME1,E69D,"TF, DNA repair",Small-Cell Lung Cancer,14,0.7
+EP400,A3094T,"PTM writers, Chromatin remodelers, TF",Small-Cell Lung Cancer,8,0.4
+ERBB2,I655V,TF,Small-Cell Lung Cancer,8,0.4
+ERCC6,R1230P,"Chromatin remodelers, TF, DNA repair",Small-Cell Lung Cancer,4,0.2
+EXO1,V458M,"TF, DNA repair",Small-Cell Lung Cancer,4,0.2
+FANCI,C742S,DNA repair,Small-Cell Lung Cancer,4,0.2
+HAT1,V314A,PTM writers,Small-Cell Lung Cancer,14,0.7
+HDAC5,D593E,"PTM erasers, Chromatin remodelers, TF",Small-Cell Lung Cancer,11,0.55
+HJURP,E76K,"Histone chaperones, TF",Small-Cell Lung Cancer,3,0.15
+HJURP,S295C,"Histone chaperones, TF",Small-Cell Lung Cancer,4,0.2
+HMGXB4,G165V,TF,Small-Cell Lung Cancer,14,0.7
+HOXB1,E265G,TF,Small-Cell Lung Cancer,16,0.8
+JMJD1C,E2535D,"PTM erasers, TF",Small-Cell Lung Cancer,6,0.3
+KDM5A,M865T,"PTM readers, PTM erasers, TF",Small-Cell Lung Cancer,5,0.25
+KIF4B,R580L,TF,Small-Cell Lung Cancer,10,0.5
+KMT2C,T316S,"PTM writers, TF",Small-Cell Lung Cancer,3,0.15
+MLH1,I219V,"TF, DNA repair",Small-Cell Lung Cancer,6,0.3
+MLXIP,E396G,TF,Small-Cell Lung Cancer,6,0.3
+NCOA3,Q586H,"PTM writers, TF",Small-Cell Lung Cancer,4,0.2
+NCOR2,G781E,"PTM readers, PTM erasers, Chromatin remodelers, TF",Small-Cell Lung Cancer,4,0.2
+NEDD4,N407H,PTM writers,Small-Cell Lung Cancer,4,0.2
+NEDD4,R679Q,PTM writers,Small-Cell Lung Cancer,9,0.45
+PADI4,G112A,PTM writers,Small-Cell Lung Cancer,10,0.5
+PHIP,V663G,PTM readers,Small-Cell Lung Cancer,9,0.45
+POLQ,A581V,"TF, Replication associated, DNA repair",Small-Cell Lung Cancer,3,0.15
+POLQ,L2538V,"TF, Replication associated, DNA repair",Small-Cell Lung Cancer,4,0.2
+POLR2E,S44F,"Transcription associated, TF",Small-Cell Lung Cancer,16,0.8
+PRDM15,G124D,TF,Small-Cell Lung Cancer,5,0.25
+PRDM15,S1481P,TF,Small-Cell Lung Cancer,6,0.3
+PRDM16,S533P,"PTM writers, TF",Small-Cell Lung Cancer,14,0.7
+PRDM6,A291T,PTM writers,Small-Cell Lung Cancer,4,0.2
+PRMT6,A194V,"PTM writers, DNA repair",Small-Cell Lung Cancer,8,0.4
+PSMD9,E197G,"PTM writers, TF",Small-Cell Lung Cancer,6,0.3
+PTGES2,R298H,TF,Small-Cell Lung Cancer,6,0.3
+RREB1,G783V,TF,Small-Cell Lung Cancer,6,0.3
+SENP2,T301K,DNA repair,Small-Cell Lung Cancer,10,0.5
+SETBP1,P1130T,TF,Small-Cell Lung Cancer,4,0.2
+SETBP1,V231L,TF,Small-Cell Lung Cancer,6,0.3
+SETD2,P1962L,"PTM writers, TF",Small-Cell Lung Cancer,6,0.3
+TAF1C,C91Y,TF,Small-Cell Lung Cancer,16,0.8
+TAF2,S447T,"PTM writers, TF",Small-Cell Lung Cancer,6,0.3
+TP53BP1,D353E,"TF, Replication associated, DNA repair",Small-Cell Lung Cancer,6,0.3
+TSPYL4,R30L,Histone chaperones,Small-Cell Lung Cancer,14,0.7
+ZRANB3,E637V,TF,Small-Cell Lung Cancer,4,0.2
+CHD3,M668I,"PTM readers, PTM erasers, Chromatin remodelers, TF",Squamous Cell Carcinoma of the Vulva,2,0.13
+NRG1,E532G,TF,Squamous Cell Carcinoma of the Vulva,2,0.13
+TP53,R248W,"TF, Replication associated, DNA repair",Squamous Cell Carcinoma of the Vulva,2,0.13
+CCNF,R24K,PTM writers,Urothelial Carcinoma,8,0.11
+CTCF,C497S,"TF, Chromatin architecture, DNA modificators",Urothelial Carcinoma,11,0.1527
+EP300,M2168I,"PTM readers, PTM writers, TF",Urothelial Carcinoma,10,0.14
+EP300,Q1912E,"PTM readers, PTM writers, TF",Urothelial Carcinoma,11,0.15
+FANCD2,Q802H,DNA repair,Urothelial Carcinoma,8,0.11
+GON4L,L490V,TF,Urothelial Carcinoma,11,0.15
+LEF1,E45K,"TF, HMG",Urothelial Carcinoma,9,0.125
+LRWD1,E95K,PTM readers,Urothelial Carcinoma,11,0.15
+MDC1,G1558C,DNA repair,Urothelial Carcinoma,12,0.17
+MYBBP1A,D712N,"Chromatin remodelers, TF",Urothelial Carcinoma,11,0.15
+TAF1L,I1335M,"PTM readers, PTM writers, TF",Urothelial Carcinoma,8,0.11
+TP53,E286K,"TF, Replication associated, DNA repair",Urothelial Carcinoma,10,0.14
+ZW10,I343M,TF,Urothelial Carcinoma,10,0.14
