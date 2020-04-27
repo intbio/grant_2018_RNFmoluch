@@ -12,7 +12,7 @@
   <script>
     document.addEventListener("DOMContentLoaded", function () {
       var stage = new NGL.Stage("viewport",{ backgroundColor:"#FFFFFF" });
-  
+      stage.setSpin(true);
       stage.loadFile("0_sum.mrc").then(function (o) {
         o.addRepresentation("surface", {
           colorScheme: "uniform",
