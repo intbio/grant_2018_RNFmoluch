@@ -34,7 +34,7 @@
         nucl.addRepresentation('base', {
            "sele": "nucleic", "color": 0xd6d6d6});
         nucl.addRepresentation('hyperball', {
-           "sele": ":K", "color": 0xfc03ec});
+           "sele": ":K and not _H", "color": 0xfc03ec});
 
         nucl.autoView();
       });
