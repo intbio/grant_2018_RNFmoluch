@@ -70,7 +70,7 @@
         onclick: function () {
           stage.toggleSpin()
         }
-      }, { top: "12px", left: "12px" })
+      }, { top: "102px", left: "12px" })
       addElement(centerButton)      
       
     });
