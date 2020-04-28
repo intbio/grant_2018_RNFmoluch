@@ -52,7 +52,6 @@
       });
       function addElement (el) {
         Object.assign(el.style, {
-          position: "absolute",
           zIndex: 10
         })
         stage.viewer.container.appendChild(el)
@@ -70,7 +69,7 @@
         onclick: function () {
           stage.toggleSpin()
         }
-      }, { top: "102px", left: "12px" })
+      }, { top: "12px", left: "12px" })
       addElement(centerButton)      
       
     });
