@@ -20,11 +20,11 @@
   <script src="https://intbio.org/grant_2018_RNFmoluch/js/ui/ui.js"></script>
   <script src="https://intbio.org/grant_2018_RNFmoluch/js/ui/ui.extra.js"></script>
   <script src="https://intbio.org/grant_2018_RNFmoluch/js/ui/ui.ngl.js"></script>
-  <script src="https://intbio.org/grant_2018_RNFmoluch/js/ui/ui.helper.js"></script>
+  
   <script src="https://intbio.org/grant_2018_RNFmoluch/js/gui.js"></script>
   <script>
     document.addEventListener("DOMContentLoaded", function () {
-      var stage = new NGL.Stage("viewport",{ backgroundColor:"#FFFFFF" });
+      var stage = new NGL.Stage()//"viewport",{ backgroundColor:"#FFFFFF" });
       NGL.StageWidget(stage)
       stage.loadFile("sys_ref.pdb").then(function (nucl) {
         var aspectRatio = 2;
@@ -51,6 +51,6 @@
       });
     });
   </script>
-  <div id="viewport" style="width:500px; height:500px; border: thin solid black"></div>
+  //<div id="viewport" style="width:500px; height:500px; border: thin solid black"></div>
 </body>
 </html>
