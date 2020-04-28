@@ -19,28 +19,6 @@
     document.addEventListener("DOMContentLoaded", function () {
       var stage = new NGL.Stage("viewport",{ backgroundColor:"#FFFFFF" });
       stage.setSpin(true);
-      //stage.loadFile("0_sum.mrc").then(function (o) {
-      //  o.addRepresentation("surface", {
-      //    colorScheme: "uniform",
-      //    colorValue: 0xef3e3e,
-      //    isolevel: 20,
-      //    isolevelType: 'value',
-      //    opacity:0.4
-      //  })
-      //  o.autoView()
-      //});
-      
-     // stage.loadFile("N_sum.mrc").then(function (o) {
-     //   o.addRepresentation("surface", {
-     //     colorScheme: "uniform",
-     //     colorValue: 0x3e5def,
-     //     isolevel: 20,
-     //     isolevelType: 'value',
-     //     opacity:0.4
-     //   })
-     //   o.autoView()
-     // });
-      
       stage.loadFile("c_sum.mrc").then(function (o) {
         o.addRepresentation("surface", {
           colorScheme: "uniform",
@@ -72,11 +50,32 @@
            
        nucl.autoView();
       });
-      
+      function addElement (el) {
+        Object.assign(el.style, {
+          position: "absolute",
+          zIndex: 10
+        })
+        stage.viewer.container.appendChild(el)
+      }
+
+      function createElement (name, properties, style) {
+        var el = document.createElement(name)
+        Object.assign(el, properties)
+        Object.assign(el.style, style)
+        return el
+      }
+      var centerButton = createElement("input", {
+        type: "button",
+        value: "Автовращение",
+        onclick: function () {
+          stage.toggleSpin()
+        }
+      }, { top: "12px", left: "12px" })
+      addElement(centerButton)      
       
     });
   </script>
   <div id="viewport" style="width:500px; height:500px; border: thin solid black"></div>
-  <button onclick="stage.toggleSpin()">Автовращение</button>
+
 </body>
 </html>
