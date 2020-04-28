@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="author" content="Derek Eder">
+    <title>Таблица 4.1.2. Потенциальные драйверные мутации в генах белков хроматина. </title>
+        
+    <!-- Bootstrap core CSS -->
+    <link href="https://intbio.org/grant_2018_RNFmoluch/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://intbio.org/grant_2018_RNFmoluch/css/dataTables.bootstrap.css" rel="stylesheet">
+  </head>
+
+  <body>
+    <div class="container-fluid">
+
+      <h2>Таблица 3.1.2. Достоверные взаимодействия между гистонами и белками хроматина, полученные из экспериментальных (String, BioGrid, IntAct) и структурных (PDB, EMDB) баз данных. </h2>
+         Класс белка хроматина определен в соответствии с разработанной нами классификацией.
+
+
+      <div id='table-container'></div>
+
+    </div><!-- /.container -->
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script type="text/javascript" src="https://intbio.org/grant_2018_RNFmoluch/js/jquery.min.js"></script>
+    <script type="text/javascript" src="https://intbio.org/grant_2018_RNFmoluch/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="https://intbio.org/grant_2018_RNFmoluch/js/jquery.csv.min.js"></script>
+    <script type="text/javascript" src="https://intbio.org/grant_2018_RNFmoluch/js/jquery.dataTables.min.js"></script>
+    <script type="text/javascript" src="https://intbio.org/grant_2018_RNFmoluch/js/dataTables.bootstrap.js"></script>
+    <script type="text/javascript" src="https://intbio.org/grant_2018_RNFmoluch/js/csv_to_html_table.js"></script>
+
+
+    <script type="text/javascript">
+      function format_ncbi_genid(id){
+        if (id)
+          return "<a href='https://www.ncbi.nlm.nih.gov/gene/?term=" + id + "'>" + id + "</a>";
+        else
+          return "";
+      };
+      function format_ensg_id(id){
+        if (id)
+          return "<a href='https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=" + id + "'>" + id + "</a>";
+        else
+          return "";
+      };
+      function format_enst_id(id){
+        if (id)
+          return "<a href='https://www.ensembl.org/Homo_sapiens/Transcript/Summary?t=" + id + "'>" + id + "</a>";
+        else
+          return "";
+      };
+      function format_ensp_id(id){
+        //STRINGDB
+        if (id)
+          return "<a href='https://string-db.org/network/9606." + id + "'>" + id + "</a>";
+        else
+          return "";
+      };
+      function format_genecard_id(id){
+        if (id)
+          return "<a href='https://www.genecards.org/cgi-bin/carddisp.pl?gene=" + id + "'>" + id + "</a>";
+        else
+          return "";
+      };
+      function format_uniprot_id(id){
+        if (id)
+          return "<a href='https://www.uniprot.org/uniprot/" + id + "'>" + id + "</a>";
+        else
+          return "";
+      };
+        
+        
+       
+      CsvToHtmlTable.init({
+        csv_path: 'table_3_1_2.csv',
+        element: 'table-container', 
+        allow_download: true,
+        csv_options: {separator: ',', delimiter: '"'},
+        datatables_options: {"paging": false} ,
+        custom_formatting: [[1, format_genecard_id]]
+      });
+    </script>
+  </body>
+</html>
