@@ -203,10 +203,10 @@ NGL.StageWidget = function (stage) {
   function setTheme (value) {
     var cssPath, bgColor
     if (value === 'light') {
-      cssPath = NGL.cssDirectory + 'light.css'
+      cssPath = 'css/light.css'
       bgColor = 'white'
     } else {
-      cssPath = NGL.cssDirectory + 'dark.css'
+      cssPath = 'css/light.css'
       bgColor = 'black'
     }
     cssLinkElement.href = cssPath
