@@ -18,7 +18,7 @@
   <script>
     document.addEventListener("DOMContentLoaded", function () {
       var stage = new NGL.Stage("viewport",{ backgroundColor:"#FFFFFF" });
-      stage.setSpin(true);
+      //stage.setSpin(true);
       stage.loadFile("c_sum.mrc").then(function (o) {
         o.addRepresentation("surface", {
           colorScheme: "uniform",
@@ -30,7 +30,7 @@
         })
         o.autoView()
       });
-  
+
       stage.loadFile("1kx5_ntm.pdb").then(function (nucl) {
         var aspectRatio = 2;
         var radius = 1.5;
@@ -50,27 +50,7 @@
            
        nucl.autoView();
       });
-      function addElement (el) {
-        Object.assign(el.style, {
-          zIndex: 10
-        })
-        stage.viewer.container.appendChild(el)
-      }
-
-      function createElement (name, properties, style) {
-        var el = document.createElement(name)
-        Object.assign(el, properties)
-        Object.assign(el.style, style)
-        return el
-      }
-      var centerButton = createElement("input", {
-        type: "button",
-        value: "Автовращение",
-        onclick: function () {
-          stage.toggleSpin()
-        }
-      }, { top: "12px", left: "12px" })
-      addElement(centerButton)      
+    stage.viewerControls.spin( [ 0, 1, 0 ],110 )
       
     });
   </script>
