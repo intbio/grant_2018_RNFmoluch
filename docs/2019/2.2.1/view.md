@@ -38,6 +38,7 @@
 
         nucl.autoView();
       });
+    stage.viewerControls.spin( [ 0, 1, 0 ],110 )
     });
   </script>
   <div id="viewport" style="width:500px; height:500px; border: thin solid black"></div>
