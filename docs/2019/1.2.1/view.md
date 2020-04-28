@@ -17,6 +17,7 @@
   <script>
     document.addEventListener("DOMContentLoaded", function () {
       var stage = new NGL.Stage("viewport",{ backgroundColor:"#FFFFFF" });
+      NGL.StageWidget(stage)
       stage.loadFile("sys_ref.pdb").then(function (nucl) {
         var aspectRatio = 2;
         var radius = 1.5;
