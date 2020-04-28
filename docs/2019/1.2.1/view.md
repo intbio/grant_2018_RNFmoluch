@@ -40,6 +40,7 @@
             nucl.addTrajectory(frames);
             var traj = nucl.trajList[0].trajectory;
             var player = new NGL.TrajectoryPlayer( traj,{step: 1, timeout: 20, direction : "bounce",interpolateType:'spline', interpolateStep:5});
+            player.play();
 
         });         
       
