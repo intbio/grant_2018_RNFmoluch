@@ -12,7 +12,7 @@
   <p style="color:#d98989;font-size:22px;font-family:verdana;font-weight: bold;text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;display: inline">H2B</p>
   <p style="color:#d6d6d6;font-size:22px;font-family:verdana;font-weight: bold;text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;display: inline">ДНК</p>
   <p style="color:#efea3e;font-size:18px;font-family:verdana;font-weight: bold;text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black">Изоповерхность оценочной функции Peptogrid</p>
-  
+<button onclick="stage.toggleSpin()">Автовращение</button>
  
  
   <script src="https://unpkg.com/ngl@2.0.0-dev.35/dist/ngl.js"></script>
