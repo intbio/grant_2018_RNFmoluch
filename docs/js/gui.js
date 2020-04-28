@@ -203,10 +203,10 @@ NGL.StageWidget = function (stage) {
   function setTheme (value) {
     var cssPath, bgColor
     if (value === 'light') {
-      cssPath = 'css/light.css'
+      cssPath = 'https://intbio.org/grant_2018_RNFmoluch/css/light.css'
       bgColor = 'white'
     } else {
-      cssPath = 'css/light.css'
+      cssPath = 'https://intbio.org/grant_2018_RNFmoluch/css/light.css'
       bgColor = 'black'
     }
     cssLinkElement.href = cssPath
