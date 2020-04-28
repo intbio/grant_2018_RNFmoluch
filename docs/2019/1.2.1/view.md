@@ -37,6 +37,7 @@
         nucl.addRepresentation('base', {
            "sele": "nucleic", "color": "grey"});
         NGL.autoLoad("sys_md_skip20.xtc").then(function (frames) {
+          var togglePlayer = document.getElementById( "playerButton" );
           var playing = true;
           togglePlayer.addEventListener( "click", function(){
             nucl.addTrajectory(frames);
