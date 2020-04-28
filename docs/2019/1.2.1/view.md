@@ -14,18 +14,12 @@
   <p style="color:#808080;font-size:22px;font-family:verdana;font-weight: bold;text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;display: inline">ДНК</p>
  
   <script src="https://unpkg.com/ngl@2.0.0-dev.35/dist/ngl.js"></script>  
-  <script src="https://intbio.org/grant_2018_RNFmoluch/js/lib/signals.min.js"></script>
-  <script src="https://intbio.org/grant_2018_RNFmoluch/js/lib/tether.min.js"></script>
-  <script src="https://intbio.org/grant_2018_RNFmoluch/js/lib/colorpicker.min.js"></script>
-  <script src="https://intbio.org/grant_2018_RNFmoluch/js/ui/ui.js"></script>
-  <script src="https://intbio.org/grant_2018_RNFmoluch/js/ui/ui.extra.js"></script>
-  <script src="https://intbio.org/grant_2018_RNFmoluch/js/ui/ui.ngl.js"></script>
-  
+    
   <script src="https://intbio.org/grant_2018_RNFmoluch/js/gui.js"></script>
   <script>
     document.addEventListener("DOMContentLoaded", function () {
-      var stage = new NGL.Stage()//"viewport",{ backgroundColor:"#FFFFFF" });
-      NGL.StageWidget(stage)
+      var stage = new NGL.Stage("viewport",{ backgroundColor:"#FFFFFF" });
+     
       stage.loadFile("sys_ref.pdb").then(function (nucl) {
         var aspectRatio = 2;
         var radius = 1.5;
@@ -51,6 +45,6 @@
       });
     });
   </script>
-  <!--<div id="viewport" style="width:500px; height:500px; border: thin solid black"></div> -->
+  <div id="viewport" style="width:500px; height:500px; border: thin solid black"></div>
 </body>
 </html>
