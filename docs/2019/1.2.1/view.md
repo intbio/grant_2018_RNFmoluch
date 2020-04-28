@@ -37,22 +37,10 @@
         nucl.addRepresentation('base', {
            "sele": "nucleic", "color": "grey"});
         NGL.autoLoad("sys_md_skip20.xtc").then(function (frames) {
-          var togglePlayer = document.getElementById( "playerButton" );
-          var playing = true;
-          togglePlayer.addEventListener( "click", function(){
             nucl.addTrajectory(frames);
             var traj = nucl.trajList[0].trajectory;
             var player = new NGL.TrajectoryPlayer( traj,{step: 1, timeout: 20, direction : "bounce",interpolateType:'spline', interpolateStep:5});
-            player.play()
-            if( !playing ){
-            player.play();
-            playing = true;
-          }else{
-            player.play();
-            player.pause();
-            playing = false;
-            }
-          }); 
+
         });         
       
         nucl.autoView();
@@ -60,6 +48,5 @@
     });
   </script>
   <div id="viewport" style="width:500px; height:500px; border: thin solid black"></div>
-  <button id="playerButton">Play/pause</button>
 </body>
 </html>
