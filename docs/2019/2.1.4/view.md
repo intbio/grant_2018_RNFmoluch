@@ -1,4 +1,4 @@
-### Визуализация области наилучших взаимодействий, обнаруженных при помощи Peptogrid2, область выделена желтым
+### Визуализация области наилучших взаимодействий, обнаруженных при помощи Peptogrid2
 [Назад](https://intbio.org/grant_2018_RNFmoluch/year2.html)
 
 <html lang="en">
@@ -11,7 +11,7 @@
   <p style="color:#d6d989;font-size:22px;font-family:verdana;font-weight: bold;text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;display: inline">H2A</p>
   <p style="color:#d98989;font-size:22px;font-family:verdana;font-weight: bold;text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;display: inline">H2B</p>
   <p style="color:#d6d6d6;font-size:22px;font-family:verdana;font-weight: bold;text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;display: inline">ДНК</p>
-  <p style="color:#efea3e;font-size:18px;font-family:verdana;font-weight: bold;text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black">Изоповерхность оценочной функции Peptogrid</p>
+  <p style="color:#fc03ec;font-size:18px;font-family:verdana;font-weight: bold;text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black">Изоповерхность оценочной функции Peptogrid</p>
  
  
   <script src="https://unpkg.com/ngl@2.0.0-dev.35/dist/ngl.js"></script>
@@ -22,7 +22,7 @@
       stage.loadFile("c_sum.mrc").then(function (o) {
         o.addRepresentation("surface", {
           colorScheme: "uniform",
-          colorValue: 0xefea3e,
+          colorValue: 0xfc03ec,
           isolevel: 20,
           smooth: 2,
           isolevelType: 'value',
