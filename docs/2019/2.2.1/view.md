@@ -1,4 +1,4 @@
-## Визуализация *ab-initio* полипептида длиной 11 нуклеотидов с наивысшим рейтингом Peptogrid2
+## Визуализация *ab-initio* полипептида длиной 11 аминокислот с наивысшим рейтингом Peptogrid2
 [Назад](https://intbio.org/grant_2018_RNFmoluch/year2.html)
 
 <html lang="en">
