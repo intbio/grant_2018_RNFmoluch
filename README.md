@@ -1,7 +1,7 @@
 # 2018_RNFmoluch
 
 ## Отчеты
-- [Научный отчет за 2018-2019 год](https://docs.google.com/document/d/1MgiTv9Y7oDxZVsyYMMmA1XoqaD91gS-Xr6jwO9oTrZo/edit?usp=sharing). [Планы на 2019-2020](https://docs.google.com/document/d/1SHfygFOKcSMbt5_Fusf5XzfqY-HAFtzPZONseLaMvXw/edit?usp=sharing)
+- [Научный отчет за 2018-2019 год](https://docs.google.com/document/d/1MgiTv9Y7oDxZVsyYMMmA1XoqaD91gS-Xr6jwO9oTrZo/edit?usp=sharing). [Планы на 2019-2020](https://docs.google.com/document/d/1SHfygFOKcSMbt5_Fusf5XzfqY-HAFtzPZONseLaMvXw/edit?usp=sharing) [Научный отчет за 2019-2020 годы](https://docs.google.com/document/d/184OLfr2aDRfChRkkWiuZqkCW9iqMysb3J79Ir4mk1-M/edit?usp=sharing)
 
 ## Папки
 - Ссылка на [Google Drive](https://drive.google.com/open?id=1BLPmT5rsuVZjckfTOFIWQs-CRNsxXfuB)
@@ -11,6 +11,7 @@
 
 - [На первый год](plan_results1year.pdf)
 - [На второй год](https://www.dropbox.com/s/wndw7r5d07jlxmk/zadachi-2019-2020.pdf?dl=0)
+- [На третий год](https://docs.google.com/document/d/1BqLsojwAdcaVbgnhMGODADRBCZEeMn-zts2Wd4-KBAk/edit?usp=sharing)
 - [На все время](plan-zadach.pdf)
 
 ## Задачи и ссылки
