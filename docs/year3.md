@@ -15,6 +15,6 @@
 
 
 ##### В части анализа интерактома нуклеосомы (Пакет задач 3.)
-- проектная реализация базы данных Histone PPI DB [histoneppidb](https://intbio.org/histoneppidb/)
-- прототип сервиса анализа трехмерных структур нуклеосом и их комплексов [nucldb](https://nucldb.intbio.org)
+- проектная реализация базы данных Histone PPI DB [HistonePPIDB](https://intbio.org/histoneppidb/)
+- прототип сервиса анализа трехмерных структур нуклеосом и их комплексов [NuclDB](https://nucldb.intbio.org)
 
